@@ -11,10 +11,14 @@
             "id": "b887c9a1866d09fd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-vault/wiki/小宇宙/2026-06-23_1_教培行业被打压后我家堆满了茅台酒和现金.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-23_1_教培行业被打压后我家堆满了茅台酒和现金"
             }
           }
         ]
@@ -195,6 +199,7 @@
   },
   "active": "b887c9a1866d09fd",
   "lastOpenFiles": [
+    "obsidian-vault/Processing/待处理_2026-06-23_当游戏与技术螺旋上升番外.md",
     "obsidian-vault/Processing/待处理_2026-06-23_入行_VC_十五年终于遇上新一代_AI_浪潮_和庄明浩聊机会未来人生感悟_AI_时代的.md",
     "obsidian-vault/wiki/小宇宙/2026-06-23_1_教培行业被打压后我家堆满了茅台酒和现金.md",
     "obsidian-vault/Processing/待处理_2026-06-23_白酒的下一个周期最好的商业模式何时回归.md",
@@ -220,7 +225,6 @@
     "obsidian-vault/Processing/待处理_2026-06-23_那些你不知道的_AI_产品正在海外闷声赚大钱_对谈高宁_Linkloud_联创OnBoar.md",
     "obsidian-vault/raw/小宇宙/2026-06-23_那些你不知道的_AI_产品正在海外闷声赚大钱_对谈高宁_Linkloud_联创OnBoar.md",
     "obsidian-vault/Processing/待处理_2026-06-23_我想击碎你们对于_AI_不切实际的幻想并重建一个正确的认知_对谈李乐丁战壕里的百度主任架构.md",
-    "obsidian-vault/raw/小宇宙/2026-06-23_我想击碎你们对于_AI_不切实际的幻想并重建一个正确的认知_对谈李乐丁战壕里的百度主任架构.md",
     "obsidian-vault/wiki/小宇宙",
     "obsidian-vault/raw/小宇宙",
     "obsidian-vault/Agent协作Wiki/10 运行时层/项目空间/信息收集管线/研究材料",

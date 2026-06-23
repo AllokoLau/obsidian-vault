@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "path:obsidian-vault/raw/小宇宙  ",
+      "query": "path:obsidian-vault/Processing  ",
       "color": {
         "a": 1,
         "rgb": 14917389
@@ -27,11 +27,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.18462326225858028,
-  "close": false
+  "scale": 0.13168724279835323,
+  "close": true
 }
