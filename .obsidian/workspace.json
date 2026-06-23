@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-vault/Agent协作Wiki/10 运行时层/任务清单.md",
+                "file": "obsidian-vault/Agent协作Wiki/00 宪法层/置信度分级标准.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "任务清单"
+              "title": "置信度分级标准"
             }
           }
         ]
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,8 +197,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27d945cddbea7a1d",
+  "active": "b887c9a1866d09fd",
   "lastOpenFiles": [
+    "obsidian-vault/Agent协作Wiki/10 运行时层/任务清单.md",
     "obsidian-vault/Processing",
     "obsidian-vault/Agent协作Wiki/10 运行时层/任务清单2.md",
     "obsidian-vault/Agent协作Wiki/10 运行时层/项目看板.md",
@@ -232,7 +234,6 @@
     "obsidian-vault/Agent协作Wiki/10 运行时层/全局规则/角色选项.md",
     "obsidian-vault/Agent协作Wiki/10 运行时层/全局规则/任务类型选项 - 副本 (4).md",
     "obsidian-vault/Agent协作Wiki/10 运行时层/全局规则/任务类型选项 - 副本 (3).md",
-    "obsidian-vault/Agent协作Wiki/10 运行时层/全局规则/优先级选项.md.txt",
-    "obsidian-vault/Agent协作Wiki/10 运行时层/全局规则/项目状态选项.md.txt"
+    "obsidian-vault/Agent协作Wiki/10 运行时层/全局规则/优先级选项.md.txt"
   ]
 }
