@@ -1,14 +1,14 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:",
+      "query": "path:obsidian-vault/wiki/小宇宙  ",
       "color": {
         "a": 1,
         "rgb": 14701138
