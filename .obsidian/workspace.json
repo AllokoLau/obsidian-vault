@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-vault/Agent协作Wiki/20 数据层/研究结论模板.md",
+                "file": "obsidian-vault/Agent协作Wiki/20 数据层/代码注释规范.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "研究结论模板"
+              "title": "代码注释规范"
             }
           }
         ]
@@ -196,8 +196,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27d945cddbea7a1d",
+  "active": "b887c9a1866d09fd",
   "lastOpenFiles": [
+    "obsidian-vault/Agent协作Wiki/20 数据层/研究结论模板.md",
     "obsidian-vault/raw",
     "obsidian-vault/wiki",
     "obsidian-vault/Agent协作Wiki/00 宪法层/质量保障体系.md",
@@ -230,7 +231,6 @@
     "obsidian-vault/Agent协作Wiki/10 运行时层/全局规则/质检记录模板 - 副本.md",
     "obsidian-vault/Agent协作Wiki/10 运行时层/全局规则/优先级选项.md.txt",
     "obsidian-vault/Agent协作Wiki/10 运行时层/全局规则/项目状态选项.md.txt",
-    "obsidian-vault/Agent协作Wiki/10 运行时层/全局规则/状态选项.md.txt",
     "obsidian-vault/Templates/项目启动/项目目标书模板.md",
     "obsidian-vault/Templates/项目启动/任务清单模板.md",
     "obsidian-vault/Templates/项目启动/上下文摘要模板.md"
