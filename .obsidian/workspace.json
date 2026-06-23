@@ -196,8 +196,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b887c9a1866d09fd",
+  "active": "8ccdd7f8c0b607df",
   "lastOpenFiles": [
+    "README.md",
     "obsidian-vault/Agent协作Wiki/20 数据层/研究结论模板.md",
     "obsidian-vault/raw",
     "obsidian-vault/wiki",
@@ -232,7 +233,6 @@
     "obsidian-vault/Agent协作Wiki/10 运行时层/全局规则/优先级选项.md.txt",
     "obsidian-vault/Agent协作Wiki/10 运行时层/全局规则/项目状态选项.md.txt",
     "obsidian-vault/Templates/项目启动/项目目标书模板.md",
-    "obsidian-vault/Templates/项目启动/任务清单模板.md",
-    "obsidian-vault/Templates/项目启动/上下文摘要模板.md"
+    "obsidian-vault/Templates/项目启动/任务清单模板.md"
   ]
 }
