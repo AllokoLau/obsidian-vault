@@ -11,14 +11,10 @@
             "id": "b887c9a1866d09fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian-vault/wiki/小宇宙/2026-06-23_OpenAI_和_Anthropic_共同看好的_FDEAI_时代的新岗位出现旧分工松动对谈_Rolling_AI.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-06-23_OpenAI_和_Anthropic_共同看好的_FDEAI_时代的新岗位出现旧分工松动对谈_Rolling_AI"
+              "title": "新标签页"
             }
           }
         ]
@@ -199,6 +195,19 @@
   },
   "active": "b887c9a1866d09fd",
   "lastOpenFiles": [
+    "obsidian-vault/raw/T001-信息源调研与采集方案.md",
+    "obsidian-vault/Agent协作Wiki/10 运行时层/项目空间/信息收集管线/任务清单.md",
+    "obsidian-vault/Agent协作Wiki/10 运行时层/项目空间/信息收集管线/项目目标书.md",
+    "obsidian-vault/Processing/入库模板/知识-主题.md",
+    "obsidian-vault/Processing/入库模板/公司-公司名.md",
+    "obsidian-vault/Processing/入库模板",
+    "obsidian-vault/raw/入库模板/知识-主题.md",
+    "obsidian-vault/raw/入库模板/公司-公司名.md",
+    "obsidian-vault/raw/入库模板",
+    "obsidian-vault/raw/新建文件夹",
+    "obsidian-vault/raw/知识-主题.md",
+    "obsidian-vault/raw/公司-公司名.md",
+    "obsidian-vault/wiki/小宇宙/2026-06-23_OpenAI_和_Anthropic_共同看好的_FDEAI_时代的新岗位出现旧分工松动对谈_Rolling_AI.md",
     "obsidian-vault/wiki/小宇宙/2026-06-23_OpenClaw_之后谁将定义主动式_AI_的新战场对谈_AirJelly_黄柏特.md",
     "obsidian-vault/wiki/小宇宙/2026-06-23_视频剪辑的Cursor_时刻来了对谈_ChatCut_创始人李凯文从金马导演到_AI_创业.md",
     "obsidian-vault/wiki/小宇宙/2026-06-23_人形机器人与商业航天继续看主题还是开始看订单.md",
@@ -215,25 +224,12 @@
     "obsidian-vault/wiki/小宇宙/2026-06-23_115_华为发布超节点如何搅动AI算力市场与魔形智能徐凌杰聊芯片层新变化.md",
     "obsidian-vault/wiki/小宇宙/2026-06-23_120_科创板后再访Insta360刘靖康这何尝不是一种极限运动.md",
     "obsidian-vault/wiki/小宇宙/2026-06-23_128_小众AI场景拿到10亿级收入测测任永亮首次讲述14年创业史.md",
-    "obsidian-vault/wiki/小宇宙/2026-06-23_107_与Haivivi李勇聊月入千万的AI_Jellycat小众AI硬件大众消费品的交叉口创业.md",
-    "obsidian-vault/wiki/小宇宙/2026-06-23_40_通用机器人AI_的下一个浪潮.md",
-    "obsidian-vault/wiki/小宇宙/2026-06-23_1_亿_TOKEN_俱乐部挤爆了AI_的燃料不够了对谈于文渊阿里云百炼技术负责人.md",
-    "obsidian-vault/wiki/小宇宙/2026-06-23_1_教培行业被打压后我家堆满了茅台酒和现金.md",
-    "obsidian-vault/wiki/入库模板/知识-主题.md",
-    "obsidian-vault/wiki/入库模板/公司-公司名.md",
-    "obsidian-vault/raw/小宇宙/2026-06-23_164_当AI杀死SaaS与明略吴明辉聊多Agent网络软件业转型和_AI_新组织.md",
-    "obsidian-vault/wiki/小宇宙/2026-06-23_104_我给线性注意力找金主字节_say_NoMiniMax_say_Yes.md",
-    "obsidian-vault/Processing/待处理_2026-06-23_25_以大博大腾讯帝国与原神_大公司的瞬间_S1E3.md",
-    "obsidian-vault/raw/小宇宙/2026-06-23_对话段永平做自己能够喜欢的事情很重要.md",
     "obsidian-vault/wiki/小宇宙",
     "obsidian-vault/raw/小宇宙",
     "obsidian-vault/Agent协作Wiki/10 运行时层/项目空间/信息收集管线/研究材料",
     "obsidian-vault/Agent协作Wiki/10 运行时层/项目空间/信息收集管线",
     "obsidian-vault/wiki/入库模板",
     "obsidian-vault/wiki/新建文件夹",
-    "obsidian-vault/wiki/新建 文本文档.txt",
-    "obsidian-vault/Processing",
-    "obsidian-vault/raw",
-    "obsidian-vault/wiki"
+    "obsidian-vault/wiki/新建 文本文档.txt"
   ]
 }
