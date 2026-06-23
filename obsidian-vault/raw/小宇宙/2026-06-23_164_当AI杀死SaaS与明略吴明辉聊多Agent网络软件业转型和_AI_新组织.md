@@ -1,6 +1,6 @@
 ---
 source: 晚点聊LateTalk
-title: 164: 当AI“杀死”SaaS，与明略吴明辉聊多Agent网络、软件业转型和 AI 新组织
+title:: 当AI“杀死”SaaS，与明略吴明辉聊多Agent网络、软件业转型和 AI 新组织
 url: https://podcast.latepost.com/164
 author: 晚点 LatePost
 published: 2026-05-13T16:45:00+00:00
