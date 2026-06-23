@@ -4,7 +4,7 @@ title: 人类带来的伤害，交给 AI 去治愈吧 | 对谈林间聊愈室 CE
 url: https://www.xiaoyuzhoufm.com/episode/666671dd63c334a2fb74db47?utm_source=rss
 confidence: 70%
 status: pending_review
-moved_to_processing: 2026-06-23T19:34:36Z
+moved_to_processing: 2026-06-23T20:13:52Z
 ---
 
 # ⚠️ 待审核: 人类带来的伤害，交给 AI 去治愈吧 | 对谈林间聊愈室 CEO Joshua 和 CMO 盒子

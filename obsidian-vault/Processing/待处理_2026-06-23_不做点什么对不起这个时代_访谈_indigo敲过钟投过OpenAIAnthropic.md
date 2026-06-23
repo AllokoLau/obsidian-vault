@@ -4,7 +4,7 @@ title: 「不做点什么对不起这个时代」 | 访谈 indigo，敲过钟；
 url: https://www.xiaoyuzhoufm.com/episode/6625078d200abebe6e45ff8c?utm_source=rss
 confidence: 60%
 status: pending_review
-moved_to_processing: 2026-06-23T19:34:36Z
+moved_to_processing: 2026-06-23T20:13:52Z
 ---
 
 # ⚠️ 待审核: 「不做点什么对不起这个时代」 | 访谈 indigo，敲过钟；投过OpenAI、Anthropic；美股收益 300%

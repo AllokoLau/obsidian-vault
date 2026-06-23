@@ -4,7 +4,7 @@ title: 拿下 a16z 投资，他们要用 AI 重构广告系统｜对谈 00 后 C
 url: https://www.xiaoyuzhoufm.com/episode/684edbd04abe6e29cb41d43a?utm_source=rss
 confidence: 70%
 status: pending_review
-moved_to_processing: 2026-06-23T19:34:36Z
+moved_to_processing: 2026-06-23T20:13:52Z
 ---
 
 # ⚠️ 待审核: 拿下 a16z 投资，他们要用 AI 重构广告系统｜对谈 00 后 CEO Jason Hu

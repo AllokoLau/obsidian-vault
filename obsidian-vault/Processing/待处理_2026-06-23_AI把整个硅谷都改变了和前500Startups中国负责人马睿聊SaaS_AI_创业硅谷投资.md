@@ -4,7 +4,7 @@ title: 「AI把整个硅谷都改变了」｜和前500Startups中国负责人马
 url: https://www.xiaoyuzhoufm.com/episode/66cb34037ae3d6d8d2044c75?utm_source=rss
 confidence: 60%
 status: pending_review
-moved_to_processing: 2026-06-23T19:34:36Z
+moved_to_processing: 2026-06-23T20:13:52Z
 ---
 
 # ⚠️ 待审核: 「AI把整个硅谷都改变了」｜和前500Startups中国负责人马睿聊SaaS AI 创业、硅谷投资

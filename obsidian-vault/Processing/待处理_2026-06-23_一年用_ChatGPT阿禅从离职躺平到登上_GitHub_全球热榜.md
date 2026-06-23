@@ -4,7 +4,7 @@ title: 一年，用 ChatGPT，阿禅从离职躺平到登上 GitHub 全球热榜
 url: https://www.xiaoyuzhoufm.com/episode/65dc5741513a776b57b8df42?utm_source=rss
 confidence: 50%
 status: pending_review
-moved_to_processing: 2026-06-23T19:34:36Z
+moved_to_processing: 2026-06-23T20:13:52Z
 ---
 
 # ⚠️ 待审核: 一年，用 ChatGPT，阿禅从离职躺平到登上 GitHub 全球热榜

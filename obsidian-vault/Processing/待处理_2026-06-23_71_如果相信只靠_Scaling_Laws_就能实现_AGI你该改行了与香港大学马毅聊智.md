@@ -4,7 +4,7 @@ title: 71: “如果相信只靠 Scaling Laws 就能实现 AGI，你该改行了
 url: https://podcast.latepost.com/71
 confidence: 70%
 status: pending_review
-moved_to_processing: 2026-06-23T19:34:35Z
+moved_to_processing: 2026-06-23T20:13:51Z
 ---
 
 # ⚠️ 待审核: 71: “如果相信只靠 Scaling Laws 就能实现 AGI，你该改行了”，与香港大学马毅聊智能

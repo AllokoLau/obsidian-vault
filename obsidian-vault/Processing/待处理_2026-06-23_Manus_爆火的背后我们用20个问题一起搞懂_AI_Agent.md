@@ -4,7 +4,7 @@ title: Manus 爆火的背后：我们用20个问题一起搞懂 AI Agent
 url: https://www.xiaoyuzhoufm.com/episode/67dfc7d378103db3bd506d87?utm_source=rss
 confidence: 70%
 status: pending_review
-moved_to_processing: 2026-06-23T19:34:36Z
+moved_to_processing: 2026-06-23T20:13:52Z
 ---
 
 # ⚠️ 待审核: Manus 爆火的背后：我们用20个问题一起搞懂 AI Agent

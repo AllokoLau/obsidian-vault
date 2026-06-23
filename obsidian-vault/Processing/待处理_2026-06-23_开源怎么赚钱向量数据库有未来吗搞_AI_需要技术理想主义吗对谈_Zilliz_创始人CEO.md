@@ -4,7 +4,7 @@ title: 开源怎么赚钱？向量数据库有未来吗？搞 AI 需要技术理
 url: https://www.xiaoyuzhoufm.com/episode/688add218e06fe8de7907968?utm_source=rss
 confidence: 70%
 status: pending_review
-moved_to_processing: 2026-06-23T19:34:36Z
+moved_to_processing: 2026-06-23T20:13:52Z
 ---
 
 # ⚠️ 待审核: 开源怎么赚钱？向量数据库有未来吗？搞 AI 需要技术理想主义吗？｜对谈 Zilliz 创始人/CEO星爵

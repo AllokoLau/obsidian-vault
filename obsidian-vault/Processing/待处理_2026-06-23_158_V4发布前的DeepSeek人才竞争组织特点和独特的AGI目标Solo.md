@@ -4,7 +4,7 @@ title: 158: V4发布前的DeepSeek：人才竞争、组织特点和独特的AGI�
 url: https://podcast.latepost.com/158
 confidence: 70%
 status: pending_review
-moved_to_processing: 2026-06-23T19:34:35Z
+moved_to_processing: 2026-06-23T20:13:51Z
 ---
 
 # ⚠️ 待审核: 158: V4发布前的DeepSeek：人才竞争、组织特点和独特的AGI目标|Solo

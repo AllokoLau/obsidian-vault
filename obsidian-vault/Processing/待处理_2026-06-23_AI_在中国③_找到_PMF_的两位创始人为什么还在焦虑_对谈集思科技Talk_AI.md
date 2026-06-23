@@ -4,7 +4,7 @@ title: AI 在中国③: 找到 PMF 的两位创始人，为什么还在焦虑？
 url: https://www.xiaoyuzhoufm.com/episode/67247a2033c798676fa341e1?utm_source=rss
 confidence: 60%
 status: pending_review
-moved_to_processing: 2026-06-23T19:34:36Z
+moved_to_processing: 2026-06-23T20:13:52Z
 ---
 
 # ⚠️ 待审核: AI 在中国③: 找到 PMF 的两位创始人，为什么还在焦虑？| 对谈集思科技、Talk AI

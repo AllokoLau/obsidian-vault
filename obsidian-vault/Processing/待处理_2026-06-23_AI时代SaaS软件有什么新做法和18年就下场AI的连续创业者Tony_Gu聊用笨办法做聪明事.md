@@ -4,7 +4,7 @@ title: AI时代，SaaS软件有什么新做法｜和18年就下场AI的连续创
 url: https://www.xiaoyuzhoufm.com/episode/6633008903bcdd73a91c5962?utm_source=rss
 confidence: 60%
 status: pending_review
-moved_to_processing: 2026-06-23T19:34:36Z
+moved_to_processing: 2026-06-23T20:13:52Z
 ---
 
 # ⚠️ 待审核: AI时代，SaaS软件有什么新做法｜和18年就下场AI的连续创业者Tony Gu聊“用笨办法做聪明事”

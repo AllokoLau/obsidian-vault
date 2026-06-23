@@ -4,7 +4,7 @@ title: 1个AI Agent=4个工厂老师傅？｜和王筱圃聊时序大模型和 t
 url: https://www.xiaoyuzhoufm.com/episode/68bd909697178f08eeb9b619?utm_source=rss
 confidence: 60%
 status: pending_review
-moved_to_processing: 2026-06-23T19:34:36Z
+moved_to_processing: 2026-06-23T20:13:52Z
 ---
 
 # ⚠️ 待审核: 1个AI Agent=4个工厂老师傅？｜和王筱圃聊时序大模型和 toB Agent 这门生意

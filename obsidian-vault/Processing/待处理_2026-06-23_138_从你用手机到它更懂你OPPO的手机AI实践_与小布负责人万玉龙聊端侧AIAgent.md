@@ -4,7 +4,7 @@ title: 138: 从你用手机到它更懂你，OPPO的手机AI实践 |与小布负
 url: https://podcast.latepost.com/138
 confidence: 70%
 status: pending_review
-moved_to_processing: 2026-06-23T19:34:35Z
+moved_to_processing: 2026-06-23T20:13:51Z
 ---
 
 # ⚠️ 待审核: 138: 从你用手机到它更懂你，OPPO的手机AI实践 |与小布负责人万玉龙聊端侧AI｜Agent#7

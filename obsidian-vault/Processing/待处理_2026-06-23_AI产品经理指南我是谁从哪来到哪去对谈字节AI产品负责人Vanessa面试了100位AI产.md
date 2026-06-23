@@ -4,7 +4,7 @@ title: AI产品经理指南：我是谁，从哪来，到哪去｜对谈字节AI
 url: https://www.xiaoyuzhoufm.com/episode/66778d74d3fc5dd62759ba5f?utm_source=rss
 confidence: 70%
 status: pending_review
-moved_to_processing: 2026-06-23T19:34:36Z
+moved_to_processing: 2026-06-23T20:13:52Z
 ---
 
 # ⚠️ 待审核: AI产品经理指南：我是谁，从哪来，到哪去｜对谈字节AI产品负责人Vanessa，面试了100位AI产品经理后的心得总结

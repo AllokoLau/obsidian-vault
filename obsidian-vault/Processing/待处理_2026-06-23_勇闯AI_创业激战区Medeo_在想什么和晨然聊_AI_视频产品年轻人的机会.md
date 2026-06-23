@@ -4,7 +4,7 @@ title: 勇闯「AI 创业激战区」，Medeo 在想什么？｜和晨然聊 AI 
 url: https://www.xiaoyuzhoufm.com/episode/683311dd41ef875a12213697?utm_source=rss
 confidence: 60%
 status: pending_review
-moved_to_processing: 2026-06-23T19:34:36Z
+moved_to_processing: 2026-06-23T20:13:52Z
 ---
 
 # ⚠️ 待审核: 勇闯「AI 创业激战区」，Medeo 在想什么？｜和晨然聊 AI 视频产品、年轻人的机会

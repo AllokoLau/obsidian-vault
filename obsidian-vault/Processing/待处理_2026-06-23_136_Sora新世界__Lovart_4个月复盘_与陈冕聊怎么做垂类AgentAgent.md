@@ -4,7 +4,7 @@ title: 136: Sora新世界 & Lovart 4个月复盘 | 与陈冕聊怎么做垂类Ag
 url: https://podcast.latepost.com/136
 confidence: 60%
 status: pending_review
-moved_to_processing: 2026-06-23T19:34:35Z
+moved_to_processing: 2026-06-23T20:13:51Z
 ---
 
 # ⚠️ 待审核: 136: Sora新世界 & Lovart 4个月复盘 | 与陈冕聊怎么做垂类Agent|Agent#5

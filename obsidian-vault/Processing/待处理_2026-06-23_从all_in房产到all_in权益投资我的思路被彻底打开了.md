@@ -4,7 +4,7 @@ title: 从all in房产到all in权益投资，我的思路被彻底打开了
 url: https://www.xiaoyuzhoufm.com/episode/68d9114c522b40626caae6f7?utm_source=rss
 confidence: 70%
 status: pending_review
-moved_to_processing: 2026-06-23T19:34:36Z
+moved_to_processing: 2026-06-23T20:13:52Z
 ---
 
 # ⚠️ 待审核: 从all in房产到all in权益投资，我的思路被彻底打开了

@@ -4,7 +4,7 @@ title: 听完这期，你就知道怎么和人聊 AI 了｜总结Y Combinator近
 url: https://www.xiaoyuzhoufm.com/episode/66532717c59d1e5757c5ee70?utm_source=rss
 confidence: 60%
 status: pending_review
-moved_to_processing: 2026-06-23T19:34:36Z
+moved_to_processing: 2026-06-23T20:13:52Z
 ---
 
 # ⚠️ 待审核: 听完这期，你就知道怎么和人聊 AI 了｜总结Y Combinator近一年投资的260家AI公司

@@ -4,7 +4,7 @@ title: AI 在硅谷：热火朝天，沸沸腾腾 | 对谈硅谷徐老师和 Bet
 url: https://www.xiaoyuzhoufm.com/episode/66e90e965ca6d0ace36d6d08?utm_source=rss
 confidence: 50%
 status: pending_review
-moved_to_processing: 2026-06-23T19:34:36Z
+moved_to_processing: 2026-06-23T20:13:52Z
 ---
 
 # ⚠️ 待审核: AI 在硅谷：热火朝天，沸沸腾腾 | 对谈硅谷徐老师和 Beta University 创始人云飞

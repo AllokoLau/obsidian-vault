@@ -4,7 +4,7 @@ title: 攻占金融圈的Patagonia，证明理想主义者也能持续赚钱
 url: https://www.xiaoyuzhoufm.com/episode/6647109c251bd96e6cfa2f96?utm_source=rss
 confidence: 60%
 status: pending_review
-moved_to_processing: 2026-06-23T19:34:36Z
+moved_to_processing: 2026-06-23T20:13:52Z
 ---
 
 # ⚠️ 待审核: 攻占金融圈的Patagonia，证明理想主义者也能持续赚钱
