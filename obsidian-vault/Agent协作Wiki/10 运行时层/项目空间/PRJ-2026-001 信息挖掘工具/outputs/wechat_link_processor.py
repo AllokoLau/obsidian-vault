@@ -38,7 +38,7 @@ RAW_DIR = VAULT_ROOT / "raw"
 PROCESSED_DIR = WECHAT_DIR / "_已处理"
 FAILED_DIR = WECHAT_DIR / "_失败"
 
-SUPPORTED_SOURCES = ["海外独角兽", "晚点LatePost", "晚点LatePost"]
+SUPPORTED_SOURCES = ["海外独角兽", "晚点LatePost"]
 
 
 def ensure_dirs():
