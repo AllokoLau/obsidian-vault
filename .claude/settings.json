@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s \"https://bibigpt.co/content/786128f4-dda8-4da9-82ed-7adfcba397cf?tab=Article\" --max-time 15 -H \"User-Agent: Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36\")"
+    ]
+  }
+}
