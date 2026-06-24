@@ -31,19 +31,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "27d945cddbea7a1d",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "文件列表"
-            }
-          },
-          {
             "id": "0ad20a2a89e6a3dc",
             "type": "leaf",
             "state": {
@@ -68,6 +55,19 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "书签"
+            }
+          },
+          {
+            "id": "5de5acabc589735d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           }
         ]
@@ -193,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "606b06d314864c56",
+  "active": "0ad20a2a89e6a3dc",
   "lastOpenFiles": [
     "obsidian-vault/Processing/待处理_2026-06-23_9_元宇宙开端在鹤岗与一位鹤岗打灰人的交流.md",
     "obsidian-vault/Processing/待处理_2026-06-23_19_为什么科技公司要创新为什么相信人类会进步彼得蒂尔Peter_Thiel的信念与信仰.md",
