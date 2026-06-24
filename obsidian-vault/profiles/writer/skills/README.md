@@ -1,15 +1,17 @@
 ---
 role: Writer
-name: 技能索引
+type: skills-index
+doc_name: Writer 技能索引
 version: 1.0
-created_at: 2026-06-24T17:30:00+08:00
+last_updated: 2026-06-24
 ---
 
-# Writer 技能索引
+# Writer 技能
 
-本目录引用中心 `SKILL/` 中的技能文件。Writer 拥有以下技能：
+> 根据 `技能分配表.md`，Writer 分配以下技能。
+> 技能本体在 `SKILL/` 目录，本文档只引用不复制。
 
-| 技能 | 文件位置 | 用途 |
-|------|----------|------|
-| 文章结构搭建 | `SKILL/article-structure.skill` | 将研究材料组织为清晰的内容框架 |
-| 自检清单 | `SKILL/self-check.skill` | 执行 4 重质检清单 |
+| 技能 | 文件 | 用途 |
+|------|------|------|
+| article-structure | `SKILL/article-structure.skill` | 搭建文章结构 |
+| self-check | `SKILL/self-check.skill` | 自检清单执行 |

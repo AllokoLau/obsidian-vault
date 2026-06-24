@@ -1,7 +1,29 @@
 {
   "permissions": {
     "allow": [
-      "Bash(curl -s \"https://bibigpt.co/content/786128f4-dda8-4da9-82ed-7adfcba397cf?tab=Article\" --max-time 15 -H \"User-Agent: Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36\")"
+      "Bash(curl -s \"https://bibigpt.co/content/786128f4-dda8-4da9-82ed-7adfcba397cf?tab=Article\" --max-time 15 -H \"User-Agent: Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36\")",
+      "Bash(/c/Users/93657/AppData/Local/Microsoft/WindowsApps/python3.13.exe -c ' *)",
+      "Bash(echo \"=== Memory Files ===\" && ls -la \"C:/Users/93657/.claude/projects/d--Alloko/memory/\" && echo \"\" && echo \"=== CLAUDE.md \\(head 30\\) ===\" && head -30 \"d:/Alloko/CLAUDE.md\" && echo \"\" && echo \"=== CLAUDE.md exists at root ===\" && test -f \"d:/Alloko/CLAUDE.md\" && echo \"YES\" || echo \"NO\")",
+      "Read(//c/Users/93657/.claude/projects/d--Alloko/memory/**)",
+      "WebSearch",
+      "WebFetch(domain:space.bilibili.com)",
+      "Bash(curl -s \"https://api.bilibili.com/x/web-interface/view?bvid=BV1gtGQ6FEWt\")",
+      "Bash(curl -s \"https://api.bilibili.com/x/space/acc/info?mid=478559884\")",
+      "Bash(curl -s \"https://api.bilibili.com/x/web-interface/search/all/v2?keyword=%E5%BC%A0%E5%B0%8F%E7%8F%BA%E5%95%86%E4%B8%9A%E8%AE%BF%E8%B0%88%E5%BD%95\")",
+      "Bash(python3 -c ' *)",
+      "Bash(curl -s \"https://api.bilibili.com/x/space/arc/search?mid=280780745&ps=10&pn=1\")",
+      "Bash(python -c ' *)",
+      "Read(//tmp/**)",
+      "Bash(curl -s \"https://api.bilibili.com/x/web-interface/view?bvid=BV1dyE86bENz\")",
+      "Bash(curl -s \"https://api.bilibili.com/x/player/v2?cid=39103430670&bvid=BV1HfEy6jEUx\")",
+      "Bash(curl -s \"https://api.bilibili.com/x/player/subtitle?aid=116737110510456&cid=39103430670\")",
+      "Bash(curl -s -b \"SESSDATA=128f5d7a%2C1797853316%2Ce5af4%2A62;bili_jct=dbae3c1a2b1a6981ba8839688037393a;DedeUserID=313330929\" \"https://api.bilibili.com/x/player/v2?cid=39103430670&bvid=BV1HfEy6jEUx\" 2>/dev/null > /tmp/sub_resp.json && wc -c /tmp/sub_resp.json && head -c 2000 /tmp/sub_resp.json)",
+      "Bash(curl -s \"https://api.bilibili.com/x/space/arc/search?mid=163682133&ps=30&pn=1\" -H \"User-Agent: Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36\" -H \"Referer: https://www.bilibili.com/\")",
+      "Bash(curl -s \"https://api.bilibili.com/x/web-interface/view?bvid=BV1cTEL6bECL\" -H \"User-Agent: Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36\" -H \"Referer: https://www.bilibili.com/\")",
+      "Bash(xargs -I {} sh -c 'date -d @{} \"+%Y-%m-%d %H:%M:%S\" 2>/dev/null || echo \"{}\"')"
+    ],
+    "additionalDirectories": [
+      "\\tmp"
     ]
   }
 }

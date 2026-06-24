@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "11b88a89eef7e7b1",
+        "id": "e5ab36ae28494db0",
         "type": "tabs",
         "children": [
           {
-            "id": "e30c88fb0c8a61b9",
+            "id": "7d52eb0e24ae464c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "image",
+              "state": {
+                "file": "obsidian-vault/assets/bilibili_qr_login.png"
+              },
+              "icon": "lucide-image",
+              "title": "bilibili_qr_login"
             }
           }
         ]
@@ -70,7 +72,8 @@
               "title": "文件列表"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -193,43 +196,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e30c88fb0c8a61b9",
+  "active": "7d52eb0e24ae464c",
   "lastOpenFiles": [
+    "obsidian-vault/wiki/2026-06-08_张小珺商业访谈录_对阳萌的4小时访谈.md",
+    "obsidian-vault/raw/晚点LatePost/2025-10-02_张益唐.md",
+    "obsidian-vault/raw/晚点LatePost/2025-08-28_深圳两家世界第一的公司.md",
+    "obsidian-vault/raw/晚点LatePost/2025-10-11_今年上半年.md",
+    "obsidian-vault/raw/晚点LatePost/2026-01-31_从街边零食店起家.md",
+    "obsidian-vault/raw/晚点LatePost/extract_and_save.py",
+    "obsidian-vault/Agent协作Wiki/10 运行时层/项目空间/PRJ-2026-001 信息挖掘工具/inbox/T007_Dwarkesh_Podcast_B站调研报告.md",
+    "obsidian-vault/wiki/厚雪长波_置身厂内的我们如何找回自洽的人生.md",
+    "obsidian-vault/raw/晚点LatePost/unknown_晚点专访张益唐：70 岁数学家ï.md",
+    "obsidian-vault/raw/晚点LatePost/unknown_影石 vs 大疆：后来者如何避免.md",
+    "obsidian-vault/raw/晚点LatePost/unknown_90 后上牌桌：不靠接班继承，å.md",
+    "obsidian-vault/raw/晚点LatePost/unknown_中国零食之王：草根创业童话.md",
+    "obsidian-vault/raw/晚点LatePost",
+    "obsidian-vault/raw/小宇宙/2026-06-08_张小珺商业访谈录_对阳萌的4小时访谈.md",
+    "obsidian-vault/Agent协作Wiki/10 运行时层/全局规则/Agent协作日志.md.tmp.4252.eb5d31e79cab",
+    "CLAUDE.md.tmp.4252.df30ce80deff",
+    "CLAUDE.md.tmp.4252.60bed0006db8",
+    "obsidian-vault/Agent协作Wiki/10 运行时层/全局规则/角色切换决策规则.md",
+    "obsidian-vault/Agent协作Wiki/10 运行时层/全局规则/完整工作流.md",
+    "obsidian-vault/Agent协作Wiki/pages/README.md",
+    "obsidian-vault/Agent协作Wiki/pages",
+    "obsidian-vault/Agent协作Wiki/10 运行时层/全局规则/周复盘.md",
+    "obsidian-vault/Agent协作Wiki/10 运行时层/全局规则/周复盘.md.tmp.4252.a3f0f3afb596",
+    "obsidian-vault/Agent协作Wiki/10 运行时层/全局规则/项目仪表盘.md",
+    "obsidian-vault/Agent协作Wiki/schema.md",
+    "obsidian-vault/Agent协作Wiki/index.md",
+    "obsidian-vault/Project",
+    "CLAUDE.md",
+    "obsidian-vault/wiki/厚雪长波_能分析数据不等于真的理解宏观经济但AI快做到了.md.tmp.4252.683d3cf5d60a",
+    "obsidian-vault/Agent协作Wiki/10 运行时层/项目空间/PRJ-2026-001 信息挖掘工具/outputs/transcript_processor.py",
+    "obsidian-vault/wiki/2026-05-20_海外独角兽_拆解 Anthropic：最好的 AI 公司，可能也是一种组织发明.md",
+    "小宇宙.md",
     "obsidian-vault/wiki/厚雪长波_卖在人声鼎沸处就是趋势结束时.md",
     "obsidian-vault/wiki/厚雪长波_能分析数据不等于真的理解宏观经济但AI快做到了.md",
-    "obsidian-vault/wiki/厚雪长波_置身厂内的我们如何找回自洽的人生.md",
     "obsidian-vault/wiki/2026-06-23_海外独角兽_深度讨论 Fable 5：模型收入分化，RSI，Tokenmaxxing 减速｜.md",
-    "obsidian-vault/wiki/2026-06-04_海外独角兽_Modal 的 Infra 复利，从 GPU Cloud 到 Agent San.md",
-    "obsidian-vault/wiki/2026-05-25_海外独角兽_Mintlify 做的开发者文档，如何成为 Coding Agent 生产和消费.md",
-    "obsidian-vault/wiki/2026-05-21_海外独角兽_从 Agent 开权限开始，Serval 想成为下一代 ServiceNow.md",
-    "obsidian-vault/wiki/2026-05-20_海外独角兽_拆解 Anthropic：最好的 AI 公司，可能也是一种组织发明.md",
-    "obsidian-vault/wiki/2026-05-12_海外独角兽_Supabase：百亿美元估值，vibe coding 的默认后端？.md",
-    "obsidian-vault/wiki/2026-04-29_海外独角兽_深度讨论新一轮模型发布：当智能进入月更时代  Best Ideas.md",
-    "obsidian-vault/raw/2026-04-29_海外独角兽_深度讨论新一轮模型发布：当智能进入月更时代  Best Ideas.md",
-    "obsidian-vault/raw/2026-05-12_海外独角兽_Supabase：百亿美元估值，vibe coding 的默认后端？.md",
-    "obsidian-vault/raw/2026-05-20_海外独角兽_拆解 Anthropic：最好的 AI 公司，可能也是一种组织发明.md",
-    "obsidian-vault/raw/2026-05-21_海外独角兽_从 Agent 开权限开始，Serval 想成为下一代 ServiceNow.md",
-    "obsidian-vault/raw/2026-05-25_海外独角兽_Mintlify 做的开发者文档，如何成为 Coding Agent 生产和消费.md",
-    "obsidian-vault/raw/2026-06-04_海外独角兽_Modal 的 Infra 复利，从 GPU Cloud 到 Agent San.md",
-    "obsidian-vault/raw/2026-06-23_海外独角兽_深度讨论 Fable 5：模型收入分化，RSI，Tokenmaxxing 减速｜.md",
-    "obsidian-vault/raw/微信公众号/_test_article.html",
-    "obsidian-vault/Processing/待处理_2026-06-23_9_元宇宙开端在鹤岗与一位鹤岗打灰人的交流.md",
-    "obsidian-vault/Processing/待处理_2026-06-23_19_为什么科技公司要创新为什么相信人类会进步彼得蒂尔Peter_Thiel的信念与信仰.md",
-    "obsidian-vault/Processing/待处理_2026-06-23_15_疫情中如何与情绪和平相处与临床心理学博士徐凯文对谈.md",
-    "nadianshi.com/2020/10/275223.md",
-    "nadianshi.com/2020/10",
-    "nadianshi.com/2020",
-    "nadianshi.com",
-    "obsidian-vault/raw/小宇宙/2026-06-23_135_专访张益唐70岁数学家追逐第二次闪电.md",
-    "obsidian-vault/Agent协作Wiki/10 运行时层/任务清单2.md",
-    "obsidian-vault/Processing/待处理_2026-06-23_35_别做近视手术干眼症没救给眼镜多花钱没用和英国视光医生聊聊天.md",
-    "obsidian-vault/Processing/待处理_2026-06-23_34_开始用上_AIGC_的艺术家和_Tianxi轶轩一起聊文生图.md",
-    "obsidian-vault/Processing/待处理_2026-06-23_31_中国在水电站方面基本上处于天顶星级别存在和非洲回来的曹工唠唠.md",
-    "obsidian-vault/Processing/入库模板",
-    "obsidian-vault/raw/入库模板",
-    "obsidian-vault/raw/新建文件夹",
-    "obsidian-vault/wiki/小宇宙",
-    "obsidian-vault/raw/小宇宙",
-    "obsidian-vault/Agent协作Wiki/10 运行时层/项目空间/信息收集管线/研究材料"
+    "obsidian-vault/wiki/2026-06-04_海外独角兽_Modal 的 Infra 复利，从 GPU Cloud 到 Agent San.md"
   ]
 }

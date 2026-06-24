@@ -1,16 +1,18 @@
 ---
 role: Builder
-name: 技能索引
+type: skills-index
+doc_name: Builder 技能索引
 version: 1.0
-created_at: 2026-06-24T17:30:00+08:00
+last_updated: 2026-06-24
 ---
 
-# Builder 技能索引
+# Builder 技能
 
-本目录引用中心 `SKILL/` 中的技能文件。Builder 拥有以下技能：
+> 根据 `技能分配表.md`，Builder 分配以下技能。
+> 技能本体在 `SKILL/` 目录，本文档只引用不复制。
 
-| 技能 | 文件位置 | 用途 |
-|------|----------|------|
-| 代码实现 | `SKILL/code-implementation.skill` | 按 Writer 成品进行代码实现 |
-| 测试 | `SKILL/testing.skill` | 编写和执行测试 |
-| 技术驳回 | `SKILL/technical-rebuttal.skill` | 材料错误时撰写技术驳回报告 |
+| 技能 | 文件 | 用途 |
+|------|------|------|
+| code-implementation | `SKILL/code-implementation.skill` | 代码实现 |
+| testing | `SKILL/testing.skill` | 编写和执行测试 |
+| technical-rebuttal | `SKILL/technical-rebuttal.skill` | 技术驳回报告 |
