@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0f55ea1aea130754",
+        "id": "25fd26a8b9aa1f2c",
         "type": "tabs",
         "children": [
           {
-            "id": "0fb92a80a176bf20",
+            "id": "0b72becb65baaf73",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian-vault/Agent协作Wiki/10 运行时层/项目空间/PRJ-2026-001 信息挖掘工具/inbox/T007_Dwarkesh_Podcast_B站调研报告.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "T007_Dwarkesh_Podcast_B站调研报告"
+              "title": "新标签页"
             }
           }
         ]
@@ -198,34 +194,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0fb92a80a176bf20",
+  "active": "5de5acabc589735d",
   "lastOpenFiles": [
+    "晚点LatePost.md",
+    "obsidian-vault/wiki/晚点LatePost/2026-06-23_从 Cerebras IPO 聊起：AI 算力变化、Scaling law 的萌.md",
+    "obsidian-vault/wiki/晚点LatePost/2026-06-16_字节跳动的 AI 账本：豆包每天不足百万收入、Seedance 毛利 70%.md",
+    "obsidian-vault/wiki/晚点LatePost/2026-06-15_解密 AI 版支付宝，20 年来最大改版即将发布.md",
+    "obsidian-vault/wiki/晚点LatePost/2026-06-15_紧绷中的 SK 海力士，AI 时代领先者的结构性困局.md",
+    "obsidian-vault/wiki/晚点LatePost/2026-06-13_云台相机的十三年：巨头的试错、领跑和新一轮暗战.md",
+    "obsidian-vault/wiki/晚点LatePost/2026-06-12_对谈加速进化程昊：从踢好一场球出发，目标是具身智能的 “安卓”.md",
+    "obsidian-vault/wiki/晚点LatePost/2026-06-12_SpaceX 的 24 年：10 段神奇往事，一个硬核传奇.md",
+    "obsidian-vault/wiki/晚点LatePost/2026-06-11_史上最大的 IPO，史上最贵的盲盒.md",
+    "obsidian-vault/wiki/晚点LatePost/2026-06-04_解密 SpaceX IPO：马斯克如何把 AI 装进火箭.md",
+    "obsidian-vault/wiki/晚点LatePost/2026-06-02_晚点独家丨阿里内部复盘外卖大战得失：即时零售的竞争刚开始.md",
+    "obsidian-vault/wiki/晚点LatePost/2026-06-02_晚点独家丨字节 Seed 架构调整：周畅管理范围扩大，具身业务纳入核心.md",
+    "obsidian-vault/wiki/晚点LatePost/2026-05-31_晚点招聘丨招 AI 作者、驻硅谷科技作者.md",
+    "obsidian-vault/wiki/晚点LatePost/2026-05-27_电动两轮行业的下半场，究竟在比拼什么.md",
+    "obsidian-vault/wiki/晚点LatePost/2026-05-27_当资金、产能与 CPO 同时收紧，光模块还有多少安全边际？.md",
+    "obsidian-vault/wiki/晚点LatePost/2026-05-27_对话许华哲：具身智能不是机器人学，不是自动驾驶，是世界上的新物种.md",
+    "obsidian-vault/wiki/晚点LatePost/2026-05-21_车企集体押注 新三大件，买电车的标准变了.md",
+    "obsidian-vault/wiki/晚点LatePost/2026-05-21_车企集体押注 “新三大件”，买电车的标准变了.md",
+    "obsidian-vault/wiki/晚点LatePost/2026-05-18_制造豆包：一个 AI 超级入口的形成与转向.md",
+    "obsidian-vault/wiki/晚点LatePost/2026-01-29_字节、阿里、腾讯 AI 大战全记录：一场影响命运的战争.md",
+    "obsidian-vault/wiki/晚点LatePost",
+    "obsidian-vault/process/晚点LatePost/temp_article3.md.tmp.18704.5f819ab37ca5",
+    "obsidian-vault/process/晚点LatePost/temp_article3.md",
+    "obsidian-vault/Agent协作Wiki/10 运行时层/项目空间/PRJ-2026-001 信息挖掘工具/inbox/T007_Dwarkesh_Podcast_B站调研报告.md",
+    "obsidian-vault/process/晚点LatePost/temp_article2.md.tmp.18704.929037f0dd79",
     "obsidian-vault/raw/微信公众号/晚点LatePost_vVZmMEW3fLozZcXITjsZJA.md",
     "obsidian-vault/raw/微信公众号/晚点LatePost_uaUlGYjlzasQfu0oBSUu-g.md",
     "obsidian-vault/raw/微信公众号/晚点LatePost_uIsOdDcJ6pROH29EwZt63w.md",
     "obsidian-vault/raw/微信公众号/晚点LatePost_tGZtok8AD8HDDdxEGrzaAQ.md",
-    "obsidian-vault/raw/微信公众号/晚点LatePost_ojomWY2QrqO4SosSroAFHw.md",
-    "obsidian-vault/raw/微信公众号/晚点LatePost_ffhi3aCpecyIZFElCIh5vA.md",
-    "obsidian-vault/raw/微信公众号/晚点LatePost_cL_q-gGx3L4siFqLQZpgEQ.md",
-    "obsidian-vault/raw/微信公众号/晚点LatePost_ZRmqn9P2gM28zk8rCCn8Sw.md",
-    "obsidian-vault/raw/微信公众号/晚点LatePost_ZRC7lwXgt16gcLTZquNGoA.md",
-    "obsidian-vault/raw/微信公众号/晚点LatePost_Ykoq0gOBFoub4jDWN53KQw.md",
-    "obsidian-vault/raw/微信公众号/晚点LatePost_Y90KsMk2AkIi7iWCb7aSvA.md",
-    "obsidian-vault/raw/微信公众号/晚点LatePost_T5QjWN7Hmgu1bvKdNOpq8g.md",
-    "obsidian-vault/raw/微信公众号/晚点LatePost_SJO0n-gBxisv36JBgEMd3w.md",
-    "obsidian-vault/raw/微信公众号/晚点LatePost_REvYW37gD3d2qOdM7lb5mQ.md",
-    "obsidian-vault/raw/微信公众号/晚点LatePost_OM2VyoHNkynHO5rT452Z2A.md",
-    "obsidian-vault/raw/微信公众号/晚点LatePost_Lox5izCEbj4-7abdKIm9Xw.md",
-    "obsidian-vault/raw/微信公众号/晚点LatePost_Bp6k_ZzYA04ic87AhtsuYw.md",
-    "obsidian-vault/raw/微信公众号/晚点LatePost_5eXM9DFnEArfjsmH8VKw5Q.md",
-    "obsidian-vault/raw/微信公众号/晚点LatePost_-TG3ogPu4VUEW7uwYb5zhw.md",
-    "obsidian-vault/wiki/2026-03-16_张小珺商业访谈录_对谢赛宁的7小时马拉松访谈.md",
-    "obsidian-vault/Agent协作Wiki/10 运行时层/项目空间/PRJ-2026-001 信息挖掘工具/inbox/Dwarkesh_EdwardGlaeser_城市韧性.md",
-    "obsidian-vault/raw/小宇宙/2026-03-30_张小珺商业访谈录_数据的综述_和谢晨聊.md",
-    "obsidian-vault/Agent协作Wiki/10 运行时层/项目空间/PRJ-2026-001 信息挖掘工具/inbox/Dwarkesh_RobinHanson_隐藏动机.md",
-    "obsidian-vault/raw/小宇宙/2026-06-12_张小珺商业访谈录_口述SpaceX开发史.md",
-    "obsidian-vault/Agent协作Wiki/10 运行时层/项目空间/PRJ-2026-001 信息挖掘工具/inbox/Dwarkesh_JacobKimmel_进化与长寿.md",
-    "obsidian-vault/Agent协作Wiki/10 运行时层/项目空间/PRJ-2026-001 信息挖掘工具/inbox/Dwarkesh_GeorgeChurch_Aging.md",
     "obsidian-vault/process/晚点LatePost/2025-08-28_深圳两家世界第一的公司.md.tmp.18704.382f1e16e9ef",
     "obsidian-vault/Agent协作Wiki/10 运行时层/项目空间/PRJ-2026-001 信息挖掘工具/inbox/test_subtitle.py",
     "obsidian-vault/process/晚点LatePost",
@@ -233,9 +232,6 @@
     "obsidian-vault/raw/晚点LatePost/extract_and_save.py",
     "obsidian-vault/raw/晚点LatePost",
     "obsidian-vault/Agent协作Wiki/10 运行时层/全局规则/Agent协作日志.md.tmp.4252.eb5d31e79cab",
-    "CLAUDE.md.tmp.4252.df30ce80deff",
-    "CLAUDE.md.tmp.4252.60bed0006db8",
-    "obsidian-vault/Agent协作Wiki/pages",
-    "obsidian-vault/Agent协作Wiki/10 运行时层/全局规则/周复盘.md.tmp.4252.a3f0f3afb596"
+    "CLAUDE.md.tmp.4252.df30ce80deff"
   ]
 }
