@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0f685fde4c8dd508",
+        "id": "11b88a89eef7e7b1",
         "type": "tabs",
         "children": [
           {
-            "id": "606b06d314864c56",
+            "id": "e30c88fb0c8a61b9",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -193,8 +193,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ad20a2a89e6a3dc",
+  "active": "e30c88fb0c8a61b9",
   "lastOpenFiles": [
+    "obsidian-vault/wiki/厚雪长波_卖在人声鼎沸处就是趋势结束时.md",
+    "obsidian-vault/wiki/厚雪长波_能分析数据不等于真的理解宏观经济但AI快做到了.md",
+    "obsidian-vault/wiki/厚雪长波_置身厂内的我们如何找回自洽的人生.md",
+    "obsidian-vault/wiki/2026-06-23_海外独角兽_深度讨论 Fable 5：模型收入分化，RSI，Tokenmaxxing 减速｜.md",
+    "obsidian-vault/wiki/2026-06-04_海外独角兽_Modal 的 Infra 复利，从 GPU Cloud 到 Agent San.md",
+    "obsidian-vault/wiki/2026-05-25_海外独角兽_Mintlify 做的开发者文档，如何成为 Coding Agent 生产和消费.md",
+    "obsidian-vault/wiki/2026-05-21_海外独角兽_从 Agent 开权限开始，Serval 想成为下一代 ServiceNow.md",
+    "obsidian-vault/wiki/2026-05-20_海外独角兽_拆解 Anthropic：最好的 AI 公司，可能也是一种组织发明.md",
+    "obsidian-vault/wiki/2026-05-12_海外独角兽_Supabase：百亿美元估值，vibe coding 的默认后端？.md",
+    "obsidian-vault/wiki/2026-04-29_海外独角兽_深度讨论新一轮模型发布：当智能进入月更时代  Best Ideas.md",
+    "obsidian-vault/raw/2026-04-29_海外独角兽_深度讨论新一轮模型发布：当智能进入月更时代  Best Ideas.md",
+    "obsidian-vault/raw/2026-05-12_海外独角兽_Supabase：百亿美元估值，vibe coding 的默认后端？.md",
+    "obsidian-vault/raw/2026-05-20_海外独角兽_拆解 Anthropic：最好的 AI 公司，可能也是一种组织发明.md",
+    "obsidian-vault/raw/2026-05-21_海外独角兽_从 Agent 开权限开始，Serval 想成为下一代 ServiceNow.md",
+    "obsidian-vault/raw/2026-05-25_海外独角兽_Mintlify 做的开发者文档，如何成为 Coding Agent 生产和消费.md",
+    "obsidian-vault/raw/2026-06-04_海外独角兽_Modal 的 Infra 复利，从 GPU Cloud 到 Agent San.md",
+    "obsidian-vault/raw/2026-06-23_海外独角兽_深度讨论 Fable 5：模型收入分化，RSI，Tokenmaxxing 减速｜.md",
+    "obsidian-vault/raw/微信公众号/_test_article.html",
     "obsidian-vault/Processing/待处理_2026-06-23_9_元宇宙开端在鹤岗与一位鹤岗打灰人的交流.md",
     "obsidian-vault/Processing/待处理_2026-06-23_19_为什么科技公司要创新为什么相信人类会进步彼得蒂尔Peter_Thiel的信念与信仰.md",
     "obsidian-vault/Processing/待处理_2026-06-23_15_疫情中如何与情绪和平相处与临床心理学博士徐凯文对谈.md",
@@ -207,29 +225,11 @@
     "obsidian-vault/Processing/待处理_2026-06-23_35_别做近视手术干眼症没救给眼镜多花钱没用和英国视光医生聊聊天.md",
     "obsidian-vault/Processing/待处理_2026-06-23_34_开始用上_AIGC_的艺术家和_Tianxi轶轩一起聊文生图.md",
     "obsidian-vault/Processing/待处理_2026-06-23_31_中国在水电站方面基本上处于天顶星级别存在和非洲回来的曹工唠唠.md",
-    "obsidian-vault/Processing/待处理_2026-06-23_20个问题解读AI视频元年对谈_Luma_AI_产品经理_Barkley从_Sora_惊艳亮相.md",
-    "obsidian-vault/Processing/待处理_2026-06-23_12_互联网还会变好吗极客精神与_Web_3.md",
-    "obsidian-vault/Processing/待处理_2026-06-23_11_封装赛博神学与蒸汽波音乐共识消逝年代的技术__孔德罡.md",
-    "obsidian-vault/Processing/待处理_2026-06-23_听完这期你就知道怎么和人聊_AI_了总结Y_Combinator近一年投资的260家AI公司.md",
-    "obsidian-vault/Processing/待处理_2026-06-23_SEO新卷王Pollo_AI_创始人阿彪首谈SEO_怎么做红人怎么投付费广告怎么搞.md",
-    "obsidian-vault/Processing/待处理_2026-06-23_不做点什么对不起这个时代_访谈_indigo敲过钟投过OpenAIAnthropic.md",
-    "obsidian-vault/raw/小宇宙/2026-06-23_166_许华哲再次具身创业不想错过最大的西瓜.md",
-    "obsidian-vault/raw/小宇宙/2026-06-23_139_Agent的综述和苏煜聊Agent技术史OpenClaw_Moment边界的消弭和.md",
-    "obsidian-vault/raw/小宇宙/2026-06-23_132_350亿美元大并购后聊_EDA两位芯片工程师的全面科普壁垒AI_加速国产机会.md",
-    "obsidian-vault/raw/小宇宙/2026-06-23_35_别做近视手术干眼症没救给眼镜多花钱没用和英国视光医生聊聊天.md",
-    "obsidian-vault/raw/小宇宙/2026-06-23_39_从美团收购光年之外聊聊科技公司收并购的操作与故事.md",
-    "obsidian-vault/raw/小宇宙/2026-06-23_36_OPPO_突然中止造芯生不逢时的雄心.md",
-    "obsidian-vault/raw/小宇宙/2026-06-23_10_我是如何发现你简历造假的与两位猎头聊背景调查.md",
-    "obsidian-vault/raw/小宇宙/2026-06-23_3万块钱到财务自由我的佛系投资法则.md",
-    "obsidian-vault/raw/小宇宙/2026-06-23_134_Meta_AI人才动荡上亿美元为何留不住人_与Pokee_AI朱哲清盘点_AI_组织.md",
-    "obsidian-vault/raw/小宇宙/2026-06-23_140_深势科技张林峰孙伟杰AI_for_Science从开始到现在.md",
-    "obsidian-vault/raw/小宇宙/2026-06-23_超长期特别国债vs红利策略投哪个30年后我不会后悔.md",
     "obsidian-vault/Processing/入库模板",
     "obsidian-vault/raw/入库模板",
     "obsidian-vault/raw/新建文件夹",
     "obsidian-vault/wiki/小宇宙",
     "obsidian-vault/raw/小宇宙",
-    "obsidian-vault/Agent协作Wiki/10 运行时层/项目空间/信息收集管线/研究材料",
-    "obsidian-vault/Agent协作Wiki/10 运行时层/项目空间/信息收集管线"
+    "obsidian-vault/Agent协作Wiki/10 运行时层/项目空间/信息收集管线/研究材料"
   ]
 }

@@ -175,13 +175,13 @@ def main():
             dest = get_dest_path(f, WIKI_DIR)
             shutil.copy2(f, dest)
             f.unlink()
-            print(f"       ✅ → wiki/{dest.name}")
+            print(f"       [OK] -> wiki/{dest.name}")
             stats["wiki"] += 1
 
         elif confidence < THRESHOLD_LOW:
             log_discard(f, confidence, f"置信度 {confidence:.2f} < {THRESHOLD_LOW}")
             f.unlink()  # 从 raw/ 删除
-            print(f"       🗑 → 丢弃（已记录日志）")
+            print(f"       [TRASH] -> 丢弃（已记录日志）")
             stats["discard"] += 1
 
         else:
@@ -192,7 +192,7 @@ def main():
             dest = get_dest_path(f, PROCESS_DIR)
             dest.write_text(content, encoding="utf-8")
             f.unlink()
-            print(f"       ⏳ → process/{dest.name}")
+            print(f"       [WAIT] -> process/{dest.name}")
             stats["process"] += 1
 
     # 汇总
