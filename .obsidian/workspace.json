@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f9aebd8151afa458",
+        "id": "0f685fde4c8dd508",
         "type": "tabs",
         "children": [
           {
-            "id": "2c3fe2b4dba209fb",
+            "id": "606b06d314864c56",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -193,18 +193,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c3fe2b4dba209fb",
+  "active": "606b06d314864c56",
   "lastOpenFiles": [
+    "obsidian-vault/Processing/待处理_2026-06-23_9_元宇宙开端在鹤岗与一位鹤岗打灰人的交流.md",
+    "obsidian-vault/Processing/待处理_2026-06-23_19_为什么科技公司要创新为什么相信人类会进步彼得蒂尔Peter_Thiel的信念与信仰.md",
+    "obsidian-vault/Processing/待处理_2026-06-23_15_疫情中如何与情绪和平相处与临床心理学博士徐凯文对谈.md",
+    "nadianshi.com/2020/10/275223.md",
+    "nadianshi.com/2020/10",
+    "nadianshi.com/2020",
+    "nadianshi.com",
     "obsidian-vault/raw/小宇宙/2026-06-23_135_专访张益唐70岁数学家追逐第二次闪电.md",
     "obsidian-vault/Agent协作Wiki/10 运行时层/任务清单2.md",
     "obsidian-vault/Processing/待处理_2026-06-23_35_别做近视手术干眼症没救给眼镜多花钱没用和英国视光医生聊聊天.md",
     "obsidian-vault/Processing/待处理_2026-06-23_34_开始用上_AIGC_的艺术家和_Tianxi轶轩一起聊文生图.md",
     "obsidian-vault/Processing/待处理_2026-06-23_31_中国在水电站方面基本上处于天顶星级别存在和非洲回来的曹工唠唠.md",
     "obsidian-vault/Processing/待处理_2026-06-23_20个问题解读AI视频元年对谈_Luma_AI_产品经理_Barkley从_Sora_惊艳亮相.md",
-    "obsidian-vault/Processing/待处理_2026-06-23_15_疫情中如何与情绪和平相处与临床心理学博士徐凯文对谈.md",
     "obsidian-vault/Processing/待处理_2026-06-23_12_互联网还会变好吗极客精神与_Web_3.md",
     "obsidian-vault/Processing/待处理_2026-06-23_11_封装赛博神学与蒸汽波音乐共识消逝年代的技术__孔德罡.md",
-    "obsidian-vault/Processing/待处理_2026-06-23_9_元宇宙开端在鹤岗与一位鹤岗打灰人的交流.md",
     "obsidian-vault/Processing/待处理_2026-06-23_听完这期你就知道怎么和人聊_AI_了总结Y_Combinator近一年投资的260家AI公司.md",
     "obsidian-vault/Processing/待处理_2026-06-23_SEO新卷王Pollo_AI_创始人阿彪首谈SEO_怎么做红人怎么投付费广告怎么搞.md",
     "obsidian-vault/Processing/待处理_2026-06-23_不做点什么对不起这个时代_访谈_indigo敲过钟投过OpenAIAnthropic.md",
@@ -219,17 +224,12 @@
     "obsidian-vault/raw/小宇宙/2026-06-23_134_Meta_AI人才动荡上亿美元为何留不住人_与Pokee_AI朱哲清盘点_AI_组织.md",
     "obsidian-vault/raw/小宇宙/2026-06-23_140_深势科技张林峰孙伟杰AI_for_Science从开始到现在.md",
     "obsidian-vault/raw/小宇宙/2026-06-23_超长期特别国债vs红利策略投哪个30年后我不会后悔.md",
-    "obsidian-vault/raw/小宇宙/2026-06-23_当越来越多的人想成为超级个体和姜Dora聊职业经历AI体验和在杭州良渚的生活.md",
-    "obsidian-vault/raw/小宇宙/2026-06-23_面对大债务周期我们的力不从心与力所能及.md",
     "obsidian-vault/Processing/入库模板",
     "obsidian-vault/raw/入库模板",
     "obsidian-vault/raw/新建文件夹",
     "obsidian-vault/wiki/小宇宙",
     "obsidian-vault/raw/小宇宙",
     "obsidian-vault/Agent协作Wiki/10 运行时层/项目空间/信息收集管线/研究材料",
-    "obsidian-vault/Agent协作Wiki/10 运行时层/项目空间/信息收集管线",
-    "obsidian-vault/wiki/入库模板",
-    "obsidian-vault/wiki/新建文件夹",
-    "obsidian-vault/wiki/新建 文本文档.txt"
+    "obsidian-vault/Agent协作Wiki/10 运行时层/项目空间/信息收集管线"
   ]
 }
