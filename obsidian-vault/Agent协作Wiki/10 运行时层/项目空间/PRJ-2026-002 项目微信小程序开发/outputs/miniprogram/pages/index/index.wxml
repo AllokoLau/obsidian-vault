@@ -1,0 +1,40 @@
+<view class="page">
+  <!-- 顶部搜索栏 -->
+  <view class="search-bar">
+    <view class="search-input">
+      <text class="search-icon">🔍</text>
+      <text class="search-text">搜索商品</text>
+    </view>
+    <text class="filter-btn">筛选</text>
+  </view>
+
+  <!-- 分类标签 -->
+  <scroll-view class="category-bar" scroll-x>
+    <view wx:for="{{categories}}" wx:key="index"
+          class="cat-item {{currentCat === index ? 'active' : ''}}"
+          bindtap="onSwitchCategory" data-index="{{index}}">
+      <text>{{item}}</text>
+    </view>
+  </scroll-view>
+
+  <!-- 商品网格 -->
+  <view class="goods-grid">
+    <block wx:for="{{goodsList}}" wx:key="index">
+      <goods-card
+        name="{{item.name}}"
+        price="{{item.price}}"
+        image="{{item.image}}"
+        tag="{{item.tag}}"
+        tagType="{{item.tagType}}"
+        data-id="{{item._id}}"
+        bind:tap="onGoDetail"
+      />
+    </block>
+  </view>
+
+  <!-- 空状态 -->
+  <view wx:if="{{goodsList.length === 0}}" class="empty-state">
+    <text>🍽️</text>
+    <text>暂无商品</text>
+  </view>
+</view>

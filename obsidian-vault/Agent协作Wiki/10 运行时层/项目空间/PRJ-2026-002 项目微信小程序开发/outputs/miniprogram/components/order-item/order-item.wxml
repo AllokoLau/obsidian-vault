@@ -1,0 +1,16 @@
+<view class="order-item">
+  <view class="oi-header">
+    <text class="oi-no">{{orderNo}}</text>
+    <text class="oi-status">{{statusText}}</text>
+  </view>
+  <view class="oi-body">
+    <view class="oi-product" wx:for="{{products}}" wx:key="goodsId">
+      <view class="oi-img">
+        <image wx:if="{{item.image}}" src="{{item.image}}" />
+        <text wx:else>📷</text>
+      </view>
+      <text class="oi-name">{{item.name}}</text>
+      <text class="oi-qty">× {{item.quantity}}</text>
+    </view>
+  </view>
+</view>

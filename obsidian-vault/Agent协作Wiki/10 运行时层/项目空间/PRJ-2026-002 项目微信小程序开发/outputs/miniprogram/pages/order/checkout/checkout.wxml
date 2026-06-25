@@ -1,0 +1,61 @@
+<view class="page">
+  <!-- 自提/配送信息 -->
+  <view class="section address-section">
+    <text class="addr-icon">📍</text>
+    <view class="addr-info">
+      <text class="addr-name">自提点：深圳湾万象城 B1</text>
+      <text class="addr-detail">预计取餐时间：10-15 分钟</text>
+    </view>
+    <text class="arrow">→</text>
+  </view>
+
+  <!-- 商品清单 -->
+  <view class="section goods-section">
+    <text class="section-title">商品清单</text>
+    <view class="checkout-item" wx:for="{{items}}" wx:key="goodsId">
+      <view class="ci-img">
+        <image wx:if="{{item.image}}" src="{{item.image}}" />
+        <text wx:else>📷</text>
+      </view>
+      <view class="ci-info">
+        <text class="ci-name">{{item.name}}</text>
+        <text wx:if="{{item.spec}}" class="ci-spec">{{item.spec}}</text>
+        <text class="ci-price">¥{{item.price}}</text>
+      </view>
+      <text class="ci-qty">× {{item.quantity}}</text>
+    </view>
+  </view>
+
+  <!-- 费用汇总 -->
+  <view class="section summary-section">
+    <view class="summary-row">
+      <text>商品小计</text>
+      <text>¥{{subtotal}}</text>
+    </view>
+    <view class="summary-row">
+      <text>打包费</text>
+      <text>¥0.00</text>
+    </view>
+    <view class="summary-row total">
+      <text>实付金额</text>
+      <text class="amount">¥{{totalAmount}}</text>
+    </view>
+  </view>
+
+  <!-- 备注 -->
+  <view class="section remark-section">
+    <text class="section-title">备注</text>
+    <input class="remark-input" placeholder="口味要求、特殊备注..." model:value="{{remark}}" />
+  </view>
+
+  <!-- 底部结算栏 -->
+  <view class="checkout-footer">
+    <view class="footer-amount">
+      <text>实付: </text>
+      <text class="price">¥{{totalAmount}}</text>
+    </view>
+    <button class="btn-pay" bindtap="onPlaceOrder" loading="{{submitting}}">
+      模拟结算
+    </button>
+  </view>
+</view>

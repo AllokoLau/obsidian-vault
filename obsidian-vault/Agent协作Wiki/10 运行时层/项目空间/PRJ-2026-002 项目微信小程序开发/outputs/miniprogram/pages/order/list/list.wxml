@@ -1,0 +1,67 @@
+<view class="page">
+  <!-- 顶部状态筛选 -->
+  <view class="order-tabs">
+    <view class="otab {{statusFilter === 'all' ? 'active' : ''}}"
+          bindtap="onSwitchFilter" data-status="all">
+      <text>全部</text>
+    </view>
+    <view class="otab {{statusFilter === 'pending' ? 'active' : ''}}"
+          bindtap="onSwitchFilter" data-status="pending">
+      <text>待处理</text>
+    </view>
+    <view class="otab {{statusFilter === 'completed' ? 'active' : ''}}"
+          bindtap="onSwitchFilter" data-status="completed">
+      <text>已完成</text>
+    </view>
+    <view class="otab {{statusFilter === 'cancelled' ? 'active' : ''}}"
+          bindtap="onSwitchFilter" data-status="cancelled">
+      <text>已取消</text>
+    </view>
+  </view>
+
+  <!-- 订单列表 -->
+  <view wx:if="{{filteredOrders.length > 0}}">
+    <view class="order-card" wx:for="{{filteredOrders}}" wx:key="orderNo">
+      <view class="order-header">
+        <text class="order-no">{{item.orderNo}}</text>
+        <text class="order-status {{item.status}}">{{statusText(item.status)}}</text>
+      </view>
+      <view class="order-products">
+        <view class="order-product" wx:for="{{item.items}}" wx:key="goodsId">
+          <view class="op-img">
+            <image wx:if="{{item.image}}" src="{{item.image}}" />
+            <text wx:else>📷</text>
+          </view>
+          <view class="op-info">
+            <text class="op-name">{{item.name}}</text>
+            <text wx:if="{{item.spec}}" class="op-spec">{{item.spec}}</text>
+            <text class="op-price">¥{{item.price}}</text>
+          </view>
+          <text class="op-qty">× {{item.quantity}}</text>
+        </view>
+      </view>
+      <view class="order-footer">
+        <view class="order-total">
+          <text>共 {{item.items.length}} 件 &nbsp; 实付 </text>
+          <text class="price">¥{{item.totalAmount}}</text>
+        </view>
+        <view class="order-actions">
+          <button class="action-btn" wx:if="{{item.status === 'pending'}}"
+                  bindtap="onCancelOrder" data-order="{{item.orderNo}}">
+            取消订单
+          </button>
+          <button class="action-btn primary" wx:if="{{item.status !== 'cancelled'}}"
+                  bindtap="onReorder" data-items="{{item.items}}">
+            再次购买
+          </button>
+        </view>
+      </view>
+    </view>
+  </view>
+
+  <!-- 空状态 -->
+  <view wx:else class="empty-state">
+    <text>📋</text>
+    <text>暂无订单</text>
+  </view>
+</view>

@@ -1,0 +1,59 @@
+<view class="page">
+  <!-- 用户信息区域 -->
+  <view class="user-profile" bindtap="onGetUserInfo">
+    <view class="avatar">
+      <image wx:if="{{avatarUrl}}" src="{{avatarUrl}}" mode="aspectFill" />
+      <text wx:else class="avatar-placeholder">👤</text>
+    </view>
+    <view class="user-meta">
+      <text class="nickname">{{nickName || '点击登录'}}</text>
+      <text class="user-desc">微信小程序 · 点单系统</text>
+    </view>
+    <text class="arrow">→</text>
+  </view>
+
+  <!-- 订单快捷入口 -->
+  <view class="order-summary">
+    <view class="os-item" bindtap="goToOrders" data-status="all">
+      <text class="os-num">{{orderCount.all}}</text>
+      <text class="os-label">全部订单</text>
+    </view>
+    <view class="os-item" bindtap="goToOrders" data-status="pending">
+      <text class="os-num">{{orderCount.pending}}</text>
+      <text class="os-label">待处理</text>
+    </view>
+    <view class="os-item" bindtap="goToOrders" data-status="completed">
+      <text class="os-num">{{orderCount.completed}}</text>
+      <text class="os-label">已完成</text>
+    </view>
+    <view class="os-item" bindtap="goToOrders" data-status="cancelled">
+      <text class="os-num">{{orderCount.cancelled}}</text>
+      <text class="os-label">已取消</text>
+    </view>
+  </view>
+
+  <!-- 功能列表 -->
+  <view class="menu-list">
+    <view class="menu-item" bindtap="goToOrders" data-status="all">
+      <text class="menu-icon">📋</text>
+      <text class="menu-label">我的订单</text>
+      <text class="arrow">→</text>
+    </view>
+    <view class="menu-item">
+      <text class="menu-icon">📍</text>
+      <text class="menu-label">自提点信息</text>
+      <text class="menu-desc">深圳湾万象城 B1</text>
+      <text class="arrow">→</text>
+    </view>
+    <view class="menu-item" bindtap="onClearData">
+      <text class="menu-icon">🗑️</text>
+      <text class="menu-label">清除所有数据</text>
+      <text class="arrow">→</text>
+    </view>
+  </view>
+
+  <!-- 版本信息 -->
+  <view class="version-info">
+    <text>v1.0.0 · MVP</text>
+  </view>
+</view>
