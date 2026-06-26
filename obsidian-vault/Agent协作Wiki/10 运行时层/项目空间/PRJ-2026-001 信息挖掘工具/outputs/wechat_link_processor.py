@@ -22,6 +22,7 @@ WeChat Article Link Processor
   如果全部失败，会记录链接到日志供手动处理。
 """
 
+import asyncio
 import os
 import re
 import sys
@@ -114,13 +115,47 @@ async def try_fetch_article(url: str) -> str | None:
         return None
 
 
-def extract_article_text(html: str) -> str:
-    """从微信公众号 HTML 中提取正文."""
-    # 尝试提取页面标题
-    title = "未知标题"
-    m = re.search(r'<h1[^>]*class="rich_media_title"[^>]*>(.*?)</h1>', html, re.DOTALL)
+def _extract_title(html: str) -> str:
+    """从微信公众号 HTML 中多级尝试提取标题."""
+    # 方法1: 从 h1.rich_media_title > span.js_title_inner 提取
+    m = re.search(
+        r'<h1[^>]*class="rich_media_title[^"]*"[^>]*>'
+        r'\s*<span[^>]*class="js_title_inner"[^>]*>(.*?)</span>\s*</h1>',
+        html, re.DOTALL
+    )
     if m:
         title = re.sub(r'<[^>]+>', '', m.group(1)).strip()
+        if title:
+            return title
+
+    # 方法2: 宽松匹配 h1.rich_media_title
+    m = re.search(r'<h1[^>]*class="[^"]*rich_media_title[^"]*"[^>]*>(.*?)</h1>', html, re.DOTALL)
+    if m:
+        title = re.sub(r'<[^>]+>', '', m.group(1)).strip()
+        if title:
+            return title
+
+    # 方法3: 从 <title> 标签提取
+    m = re.search(r'<title>(.*?)</title>', html, re.DOTALL)
+    if m:
+        title = m.group(1).strip()
+        if title:
+            return title
+
+    # 方法4: 从 og:title meta 提取
+    m = re.search(r'<meta[^>]*property="og:title"[^>]*content="([^"]*)"', html)
+    if m:
+        title = m.group(1).strip()
+        if title:
+            return title
+
+    return "未知标题"
+
+
+def extract_article_text(html: str) -> tuple:
+    """从微信公众号 HTML 中提取正文."""
+    # 尝试提取页面标题
+    title = _extract_title(html)
 
     # 尝试提取正文
     content = ""
@@ -202,7 +237,10 @@ async def process_link(link_info: dict) -> bool:
 
     # 写入 raw/
     today = datetime.now().strftime("%Y%m%d")
-    out_name = f"{today}_{source}_{title[:30]}.md"
+    # 从 URL 提取文章 ID 作为防碰撞后缀
+    url_id = url.rstrip("/").rsplit("/", 1)[-1] if url else ""
+    title_clean = title[:30] if title != "未知标题" else f"未知标题_{url_id}"
+    out_name = f"{today}_{source}_{title_clean}.md"
     out_path = RAW_DIR / out_name
     out_path.write_text(format_article(source, url, title, text), encoding="utf-8")
     print(f"  [OK] 已保存至: {out_path}")

@@ -62,34 +62,72 @@ async def fetch_subtitles(bv: str, credential: Credential, preferred_lang: str =
     """获取视频字幕列表，返回字幕内容列表."""
     v = video.Video(bvid=bv, credential=credential)
     info = await v.get_info()
+    cid = info.get("cid", 0)
 
+    # 方法1: 通过 get_player_info 获取字幕（更可靠）
+    try:
+        player_info = await v.get_player_info(cid=cid)
+        subtitle_container = player_info.get("subtitle", {})
+        sub_list = subtitle_container.get("subtitles", [])
+        if sub_list:
+            selected = None
+            for sub in sub_list:
+                if sub.get("lan") in ("zh-CN", "ai-zh", "zh-Hans"):
+                    selected = sub
+                    break
+            if not selected:
+                selected = sub_list[0]
+
+            sub_url = selected.get("subtitle_url", "")
+            if sub_url.startswith("//"):
+                sub_url = "https:" + sub_url
+
+            if sub_url:
+                import httpx
+                async with httpx.AsyncClient() as client:
+                    resp = await client.get(sub_url)
+                    data = resp.json()
+
+                subtitles = []
+                for item in data.get("body", []):
+                    subtitles.append({
+                        "from": item["from"],
+                        "to": item["to"],
+                        "content": item["content"],
+                    })
+                if subtitles:
+                    return subtitles
+    except Exception:
+        pass
+
+    # 方法2: 回退到 get_info 的 subtitle.list
     subtitle_list = info.get("subtitle", {}).get("list", [])
     if not subtitle_list:
         return []
 
-    # 找首选语言的字幕
     selected = None
     for sub in subtitle_list:
-        if sub.get("lan") == preferred_lang:
+        if sub.get("lan") in ("zh-CN", "ai-zh"):
             selected = sub
             break
-    # 没有首选语言就用第一个
-    if not selected and subtitle_list:
+    if not selected:
         selected = subtitle_list[0]
 
     if not selected:
         return []
 
     import httpx
-    sub_url = selected["subtitle_url"]
+    sub_url = selected.get("subtitle_url", "")
     if sub_url.startswith("//"):
         sub_url = "https:" + sub_url
+
+    if not sub_url:
+        return []
 
     async with httpx.AsyncClient() as client:
         resp = await client.get(sub_url)
         data = resp.json()
 
-    # 提取字幕文本和时间戳
     subtitles = []
     for item in data.get("body", []):
         subtitles.append({
