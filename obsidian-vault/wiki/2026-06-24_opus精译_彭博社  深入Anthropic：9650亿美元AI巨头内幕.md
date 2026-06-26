@@ -1,11 +1,22 @@
 ---
 type: knowledge
 入库日期: 2026-06-25
-置信度: 0.80
+置信度: 0.8
 主题: 彭博社 | 深入Anthropic：9650亿美元AI巨头内幕
 分类: 信息挖掘/B站
-来源: [外部-Bilibili/BV1rujU6EEyT]
-tags: [opus精译, Dario Amodei, Daniela Amodei, Anthropic, AI安全, Claude Code, 扩展定律, Mythos, 国防合同, 就业影响]
+来源:
+  - 外部-Bilibili/BV1rujU6EEyT
+tags:
+  - opus精译
+  - DarioAmodei
+  - DanielaAmodei
+  - Anthropic
+  - AI安全
+  - ClaudeCode
+  - 扩展定律
+  - Mythos
+  - 国防合同
+  - 就业影响
 ---
 
 # 彭博社 | 深入Anthropic：9650亿美元AI巨头内幕

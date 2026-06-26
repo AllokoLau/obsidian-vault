@@ -14,6 +14,7 @@ RSS Fetcher for 小宇宙播客
 依赖: feedparser (pip install feedparser)
 """
 
+import asyncio
 import json
 import sys
 from datetime import datetime

@@ -1,11 +1,25 @@
 ---
 type: knowledge
 入库日期: 2026-06-25
-置信度: 0.80
+置信度: 0.8
 主题: 逐段讲解Kimi K2报告并对照ChatGPT Agent、Qwen3-Coder等："系统工程的力量"
 分类: 信息挖掘/B站
-来源: [外部-Bilibili/BV1cc8kzmEBs]
-tags: [郑博元, Language Agent, Kimi K2, ChatGPT Agent, Qwen3-Coder, Manus, 强化学习, 数据合成, Agent训练, 系统工程, Computer Use Agent, 开源模型]
+来源:
+  - 外部-Bilibili/BV1cc8kzmEBs
+tags:
+  - 郑博元
+  - LanguageAgent
+  - KimiK2
+  - ChatGPTAgent
+  - Qwen3-Coder
+  - Manus
+  - 强化学习
+  - 数据合成
+  - Agent训练
+  - 系统工程
+  - ComputerUseAgent
+  - 开源模型
+  - 张小珺商业访谈录
 ---
 
 # 逐段讲解Kimi K2报告并对照ChatGPT Agent、Qwen3-Coder等："系统工程的力量"

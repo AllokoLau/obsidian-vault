@@ -1,11 +1,24 @@
 ---
 type: knowledge
 入库日期: 2026-06-25
-置信度: 0.80
-主题: 用市场预测未来：Manifold如何改写决策 | Dwarkesh #22
+置信度: 0.8
+主题: 用市场预测未来：Manifold如何改写决策 | Dwarkesh
 分类: 信息挖掘/B站
-来源: [外部-Bilibili/BV1hyjF6cEEt]
-tags: [Stephen Grugett, Dwarkesh Patel, Manifold Markets, 预测市场, 信息聚合, 企业决策, 虚拟货币, 行为经济学, 更糟即更好, 长期预测]
+来源:
+  - 外部-Bilibili/BV1hyjF6cEEt
+tags:
+  - StephenGrugett
+  - DwarkeshPatel
+  - ManifoldMarkets
+  - 预测市场
+  - 信息聚合
+  - 企业决策
+  - 虚拟货币
+  - 行为经济学
+  - 更糟即更好
+  - 长期预测
+  - opus
+  - DwarkeshPodcast
 ---
 
 # 用市场预测未来：Manifold如何改写决策 | Dwarkesh #22

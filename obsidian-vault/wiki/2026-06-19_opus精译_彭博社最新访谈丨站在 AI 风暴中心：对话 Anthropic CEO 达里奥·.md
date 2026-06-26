@@ -1,11 +1,24 @@
 ---
 type: knowledge
 入库日期: 2026-06-25
-置信度: 0.80
+置信度: 0.8
 主题: 彭博社最新访谈丨站在 AI 风暴中心：对话 Anthropic CEO 达里奥·阿莫迪，谈权力、就业冲击与文明崩溃的概率
 分类: 信息挖掘/B站
 来源: 外部-Bilibili/BV1CMjq6nEu1
-tags: [达里奥·阿莫迪, Anthropic, AI安全, 企业级AI, 就业冲击, Mythos模型, 彭博社, AI监管, 军事AI, 文明风险, OpenAI, 指数增长]
+tags:
+  - DarioAmodei
+  - Anthropic
+  - AI安全
+  - 企业级AI
+  - 就业冲击
+  - Mythos模型
+  - 彭博社
+  - AI监管
+  - 军事AI
+  - 文明风险
+  - OpenAI
+  - 指数增长
+  - opus精译
 ---
 
 # 彭博社最新访谈丨站在 AI 风暴中心：对话 Anthropic CEO 达里奥·阿莫迪，谈权力、就业冲击与文明崩溃的概率

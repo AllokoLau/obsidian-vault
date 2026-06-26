@@ -1,11 +1,24 @@
 ---
 type: knowledge
 入库日期: 2026-06-25
-置信度: 0.80
+置信度: 0.8
 主题: 逐篇讲解DeepSeek、Kimi、MiniMax注意力机制新论文——“硬件上的暴力美学”
 分类: 信息挖掘/B站
-来源: [外部-Bilibili/BV1ZmAQekEMc]
-tags: [杨松琳, 注意力机制, DeepSeek, Kimi, MiniMax, NSA, MoBA, 稀疏注意力, 线性注意力, 硬件对齐, 架构创新]
+来源:
+  - 外部-Bilibili/BV1ZmAQekEMc
+tags:
+  - 杨松琳
+  - 注意力机制
+  - DeepSeek
+  - Kimi
+  - MiniMax
+  - NSA
+  - MoBA
+  - 稀疏注意力
+  - 线性注意力
+  - 硬件对齐
+  - 架构创新
+  - 张小珺商业访谈录
 ---
 
 # 逐篇讲解DeepSeek、Kimi、MiniMax注意力机制新论文——“硬件上的暴力美学”

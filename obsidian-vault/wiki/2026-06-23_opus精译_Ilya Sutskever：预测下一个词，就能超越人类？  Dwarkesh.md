@@ -1,11 +1,25 @@
 ---
 type: knowledge
 入库日期: 2026-06-25
-置信度: 0.80
-主题: Ilya Sutskever：预测下一个词，就能超越人类？ | Dwarkesh #47
+置信度: 0.8
+主题: Ilya Sutskever：预测下一个词，就能超越人类？ | Dwarkesh
 分类: 信息挖掘/B站
-来源: [外部-Bilibili/BV1zU7T6eEj8]
-tags: [Ilya Sutskever, Dwarkesh Patel, OpenAI, 下一个token预测, AGI, 超级对齐, 规模定律, 机器人学习, GPT, 深度学习, 超人类智能, Transformer]
+来源:
+  - 外部-Bilibili/BV1zU7T6eEj8
+tags:
+  - IlyaSutskever
+  - DwarkeshPatel
+  - OpenAI
+  - 下一个token预测
+  - AGI
+  - 超级对齐
+  - 规模定律
+  - 机器人学习
+  - GPT
+  - 深度学习
+  - 超人类智能
+  - Transformer
+  - opus精译
 ---
 
 # Ilya Sutskever：预测下一个词，就能超越人类？ | Dwarkesh #47

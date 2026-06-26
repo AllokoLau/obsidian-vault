@@ -1,11 +1,24 @@
 ---
 type: knowledge
 入库日期: 2026-06-25
-置信度: 0.80
-主题: DeepMind创始人：2028年会有 AGI 吗？ | Dwarkesh #56
+置信度: 0.8
+主题: DeepMind创始人：2028年会有 AGI 吗？ | Dwarkesh
 分类: 信息挖掘/B站
-来源: [外部-Bilibili/BV1ry7T6TEbP]
-tags: [Shane Legg, DeepMind, AGI, 通用人工智能, AI对齐, 情景记忆, 2028预测, 创造力, 多模态, AI安全, Dwarkesh]
+来源:
+  - 外部-Bilibili/BV1ry7T6TEbP
+tags:
+  - ShaneLegg
+  - DeepMind
+  - AGI
+  - 通用人工智能
+  - AI对齐
+  - 情景记忆
+  - 2028预测
+  - 创造力
+  - 多模态
+  - AI安全
+  - Dwarkesh
+  - opus精译
 ---
 
 # DeepMind创始人：2028年会有 AGI 吗？ | Dwarkesh #56

@@ -1,11 +1,24 @@
 ---
 type: knowledge
 入库日期: 2026-06-25
-置信度: 0.80
-主题: Jimmy Soni 讲 PayPal 黑帮如何孵出半个硅谷 | Dwarkesh #19
+置信度: 0.8
+主题: Jimmy Soni 讲 PayPal 黑帮如何孵出半个硅谷 | Dwarkesh
 分类: 信息挖掘/B站
-来源: [外部-Bilibili/BV1oTjM6tEDH]
-tags: [JimmySoni, PayPal黑帮, PeterThiel, 逆向思维, 人才识别, 模仿欲望, 创业创新, 硅谷历史, 创始团队, 第一性原理, Dwarkesh]
+来源:
+  - 外部-Bilibili/BV1oTjM6tEDH
+tags:
+  - JimmySoni
+  - PayPal黑帮
+  - PeterThiel
+  - 逆向思维
+  - 人才识别
+  - 模仿欲望
+  - 创业创新
+  - 硅谷历史
+  - 创始团队
+  - 第一性原理
+  - Dwarkesh
+  - opus精译
 ---
 
 # Jimmy Soni 讲 PayPal 黑帮如何孵出半个硅谷 | Dwarkesh #19

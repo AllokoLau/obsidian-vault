@@ -1,11 +1,26 @@
 ---
 type: knowledge
 入库日期: 2026-06-25
-置信度: 0.80
-主题: AI会超过人类吗？David Deutsch的回答 | Dwarkesh #16
+置信度: 0.8
+主题: AI会超过人类吗？David Deutsch的回答 | Dwarkesh
 分类: 信息挖掘/B站
-来源: [外部-Bilibili/BV15pLQ6VE6E]
-tags: [David Deutsch, Dwarkesh, AI, AGI, 创造力, 波普尔主义, 乐趣准则, 量子计算, 人类智能, 意识, 存在风险, 开放科学, 知识增长]
+来源:
+  - 外部-Bilibili/BV15pLQ6VE6E
+tags:
+  - DavidDeutsch
+  - AI
+  - AGI
+  - 创造力
+  - 波普尔主义
+  - 乐趣准则
+  - 量子计算
+  - 人类智能
+  - 意识
+  - 存在风险
+  - 开放科学
+  - 知识增长
+  - opus精译
+  - Dwarkesh
 ---
 
 # AI会超过人类吗？David Deutsch的回答 | Dwarkesh #16

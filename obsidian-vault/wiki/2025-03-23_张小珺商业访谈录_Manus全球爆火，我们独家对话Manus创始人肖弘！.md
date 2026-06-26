@@ -1,11 +1,23 @@
 ---
 type: knowledge
 入库日期: 2026-06-25
-置信度: 0.80
+置信度: 0.8
 主题: Manus全球爆火，我们独家对话Manus创始人肖弘！
 分类: 信息挖掘/B站
-来源: [外部-Bilibili/BV1N7oBYNEoU]
-tags: [肖弘, Manus, Monica, Agent, AI应用创业, DeepSeek, Cursor, AI产品形态, 安迪-比尔定律, 全球化]
+来源:
+  - 外部-Bilibili/BV1N7oBYNEoU
+tags:
+  - 肖弘
+  - Manus
+  - Monica
+  - Agent
+  - AI应用创业
+  - DeepSeek
+  - Cursor
+  - AI产品形态
+  - 安迪-比尔定律
+  - 全球化
+  - 张小珺商业访谈录
 ---
 
 # Manus全球爆火，我们独家对话Manus创始人肖弘！

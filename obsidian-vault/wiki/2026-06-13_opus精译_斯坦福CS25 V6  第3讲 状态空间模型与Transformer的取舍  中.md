@@ -1,11 +1,25 @@
 ---
 type: knowledge
 入库日期: 2026-06-25
-置信度: 0.80
+置信度: 0.8
 主题: 斯坦福CS25 V6 第3讲 状态空间模型与Transformer的取舍
 分类: 信息挖掘/B站
-来源: [外部-Bilibili/BV155J76xEzW]
-tags: [Albert Gu, Mamba, 状态空间模型, SSM, Transformer, 注意力机制, 混合模型, H-Net, 无分词器建模, 序列建模, CV缓存, 压缩归纳偏置]
+来源:
+  - 外部-Bilibili/BV155J76xEzW
+tags:
+  - AlbertGu
+  - Mamba
+  - 状态空间模型
+  - SSM
+  - Transformer
+  - 注意力机制
+  - 混合模型
+  - H-Net
+  - 无分词器建模
+  - 序列建模
+  - CV缓存
+  - 压缩归纳偏置
+  - opus精译
 ---
 
 # 斯坦福CS25 V6 第3讲 状态空间模型与Transformer的取舍

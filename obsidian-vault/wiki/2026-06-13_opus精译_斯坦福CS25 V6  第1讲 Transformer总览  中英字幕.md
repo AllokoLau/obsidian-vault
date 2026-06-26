@@ -1,11 +1,25 @@
 ---
 type: knowledge
 入库日期: 2026-06-25
-置信度: 0.80
+置信度: 0.8
 主题: 斯坦福CS25 V6 | 第1讲 Transformer总览 | 中英字幕
 分类: 信息挖掘/B站
-来源: [外部-Bilibili/BV1VrJn6eEnF]
-tags: [Steven Feng, Karan P. Singh, Transformer, 自注意力机制, 预训练, 后训练对齐, 思维链, 幻觉, 世界模型, 状态空间模型, 课程式学习, RAG缩放律]
+来源:
+  - 外部-Bilibili/BV1VrJn6eEnF
+tags:
+  - StevenFeng
+  - KaranPSingh
+  - Transformer
+  - 自注意力机制
+  - 预训练
+  - 后训练对齐
+  - 思维链
+  - 幻觉
+  - 世界模型
+  - 状态空间模型
+  - 课程式学习
+  - RAG缩放律
+  - opus精译
 ---
 
 # 斯坦福CS25 V6 | 第1讲 Transformer总览 | 中英字幕

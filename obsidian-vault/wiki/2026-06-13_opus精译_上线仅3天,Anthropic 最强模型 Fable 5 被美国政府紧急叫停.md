@@ -1,11 +1,23 @@
 ---
 type: knowledge
 入库日期: 2026-06-25
-置信度: 0.80
+置信度: 0.8
 主题: 上线仅3天,Anthropic 最强模型 Fable 5 被美国政府紧急叫停
 分类: 信息挖掘/B站
-来源: [外部-Bilibili/BV1v7JJ6wE4P]
-tags: [opus精译, Anthropic, Fable 5, Mythos, 美国政府, AI监管, 国家安全, AI安全, 模型禁令, 越狱攻击, 前沿AI]
+来源:
+  - 外部-Bilibili/BV1v7JJ6wE4P
+tags:
+  - opus精译
+  - Anthropic
+  - Fable5
+  - Mythos
+  - 美国政府
+  - AI监管
+  - 国家安全
+  - AI安全
+  - 模型禁令
+  - 越狱攻击
+  - 前沿AI
 ---
 
 # 上线仅3天，Anthropic最强模型Fable 5被美国政府紧急叫停

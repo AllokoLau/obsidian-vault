@@ -1,11 +1,25 @@
 ---
 type: knowledge
 入库日期: 2026-06-25
-置信度: 0.80
+置信度: 0.8
 主题: 压缩就是智能？从信息论看懂大模型 | 3Blue1Brown | Opus精译
 分类: 信息挖掘/B站
-来源: [外部-Bilibili/BV1PGJN6uEwK]
-tags: [3Blue1Brown, 信息论, 压缩, 大模型, LLM训练, 香农, 交叉熵, 熵, 预测与压缩, 无噪编码定理, 自信息, 语言建模]
+来源:
+  - 外部-Bilibili/BV1PGJN6uEwK
+tags:
+  - 3Blue1Brown
+  - 信息论
+  - 压缩
+  - 大模型
+  - LLM训练
+  - 香农
+  - 交叉熵
+  - 熵
+  - 预测与压缩
+  - 无噪编码定理
+  - 自信息
+  - 语言建模
+  - opus精译
 ---
 
 # 压缩就是智能？从信息论看懂大模型 | 3Blue1Brown | Opus精译

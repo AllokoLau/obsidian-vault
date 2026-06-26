@@ -1,11 +1,24 @@
 ---
 type: knowledge
 入库日期: 2026-06-25
-置信度: 0.80
-主题: 宇宙为何偏爱生命？Nick Lane谈生命起源 | Dwarkesh #101
+置信度: 0.8
+主题: 宇宙为何偏爱生命？Nick Lane谈生命起源 | Dwarkesh
 分类: 信息挖掘/B站
-来源: [外部-Bilibili/BV1ZWjT6oEEC]
-tags: [NickLane, 生命起源, 线粒体, 真核生物, 内共生, 深海热液喷口, 质子梯度, 意识, 两性进化, 天体生物学]
+来源:
+  - 外部-Bilibili/BV1ZWjT6oEEC
+tags:
+  - NickLane
+  - 生命起源
+  - 线粒体
+  - 真核生物
+  - 内共生
+  - 深海热液喷口
+  - 质子梯度
+  - 意识
+  - 两性进化
+  - 天体生物学
+  - opus精译
+  - Dwarkesh
 ---
 
 # 宇宙为何偏爱生命？Nick Lane谈生命起源

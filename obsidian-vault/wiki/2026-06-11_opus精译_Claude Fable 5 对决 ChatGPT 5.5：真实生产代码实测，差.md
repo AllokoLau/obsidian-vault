@@ -1,11 +1,22 @@
 ---
 type: knowledge
 入库日期: 2026-06-25
-置信度: 0.80
+置信度: 0.8
 主题: Claude Fable 5 对决 ChatGPT 5.5：真实生产代码实测，差距悬殊
 分类: 信息挖掘/B站
-来源: [外部-Bilibili/BV1RoEi6yEHN]
-tags: [opus精译, Claude Fable 5, ChatGPT 5.5, Codex, 安全审计, 代码实测, 漏洞检测, AI编程, 模型对比, SaaS开发]
+来源:
+  - 外部-Bilibili/BV1RoEi6yEHN
+tags:
+  - opus精译
+  - ClaudeFable5
+  - ChatGPT55
+  - Codex
+  - 安全审计
+  - 代码实测
+  - 漏洞检测
+  - AI编程
+  - 模型对比
+  - SaaS开发
 ---
 
 # Claude Fable 5 对决 ChatGPT 5.5：真实生产代码实测，差距悬殊

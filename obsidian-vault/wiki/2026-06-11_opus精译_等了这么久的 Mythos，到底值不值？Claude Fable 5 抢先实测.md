@@ -1,11 +1,21 @@
 ---
 type: knowledge
 入库日期: 2026-06-25
-置信度: 0.80
+置信度: 0.8
 主题: 等了这么久的 Mythos，到底值不值？Claude Fable 5 抢先实测
 分类: 信息挖掘/B站
 来源: 外部-Bilibili/BV1ooEi6yEAD
-tags: [opus精译, Anthropic, Fable 5, Mythos, Claude, 模型评测, 基准测试, 安全机制, 多智能体, 视觉能力]
+tags:
+  - opus精译
+  - Anthropic
+  - Fable5
+  - Mythos
+  - Claude
+  - 模型评测
+  - 基准测试
+  - 安全机制
+  - 多智能体
+  - 视觉能力
 ---
 
 # 等了这么久的 Mythos，到底值不值？Claude Fable 5 抢先实测

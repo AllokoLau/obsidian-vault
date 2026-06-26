@@ -1,11 +1,25 @@
 ---
 type: knowledge
 入库日期: 2026-06-25
-置信度: 0.80
-主题: 罗马帝国到底怎么衰落的：瘟疫、奴隶制与小冰期 | Dwarkesh #86
+置信度: 0.8
+主题: 罗马帝国到底怎么衰落的：瘟疫、奴隶制与小冰期 | Dwarkesh
 分类: 信息挖掘/B站
-来源: [外部-Bilibili/BV1ky7T6TExx]
-tags: [Kyle Harper, Dwarkesh Patel, 罗马帝国, 瘟疫, 黑死病, 奴隶制, 气候变化, 小冰期, 工业革命, 认知能力, 农业起源, 病原体进化]
+来源:
+  - 外部-Bilibili/BV1ky7T6TExx
+tags:
+  - KyleHarper
+  - DwarkeshPatel
+  - 罗马帝国
+  - 瘟疫
+  - 黑死病
+  - 奴隶制
+  - 气候变化
+  - 小冰期
+  - 工业革命
+  - 认知能力
+  - 农业起源
+  - 病原体进化
+  - opus精译
 ---
 
 # 罗马帝国到底怎么衰落的：瘟疫、奴隶制与小冰期 | Dwarkesh #86

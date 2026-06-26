@@ -1,11 +1,26 @@
 ---
 type: knowledge
 入库日期: 2026-06-25
-置信度: 0.80
-主题: AI 越强，它分到的经济蛋糕越小 | Dwarkesh #119
+置信度: 0.8
+主题: AI 越强，它分到的经济蛋糕越小 | Dwarkesh
 分类: 信息挖掘/B站
-来源: [外部-Bilibili/BV1t8Ei6PE1j]
-tags: [Dwarkesh, Alex Imas, Phil Trammell, AGI经济学, 劳动份额, 自动化, 财富分配, 关系型产业, O型环模型, 杰文斯悖论, 需求弹性, 负所得税, 全民基本资本]
+来源:
+  - 外部-Bilibili/BV1t8Ei6PE1j
+tags:
+  - Dwarkesh
+  - AlexImas
+  - PhilTrammell
+  - AGI经济学
+  - 劳动份额
+  - 自动化
+  - 财富分配
+  - 关系型产业
+  - O型环模型
+  - 杰文斯悖论
+  - 需求弹性
+  - 负所得税
+  - 全民基本资本
+  - opus精译
 ---
 
 # AI 越强，它分到的经济蛋糕越小 | Dwarkesh #119

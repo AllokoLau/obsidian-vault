@@ -1,11 +1,24 @@
 ---
 type: knowledge
 入库日期: 2026-06-25
-置信度: 0.80
-主题: George Church：2050年前，人类有望逼近攻克衰老 | Dwarkesh #92
+置信度: 0.8
+主题: George Church：2050年前，人类有望逼近攻克衰老 | Dwarkesh
 分类: 信息挖掘/B站
-来源: [外部-Bilibili/BV1Sjj46PEpi]
-tags: [George Church, 合成生物学, 抗衰老, 基因疗法, 镜像生命, 蛋白质设计, 遗传咨询, 物种复活, AGI安全, 生物材料, DwarkeshPodcast, opus精译]
+来源:
+  - 外部-Bilibili/BV1Sjj46PEpi
+tags:
+  - GeorgeChurch
+  - 合成生物学
+  - 抗衰老
+  - 基因疗法
+  - 镜像生命
+  - 蛋白质设计
+  - 遗传咨询
+  - 物种复活
+  - AGI安全
+  - 生物材料
+  - DwarkeshPodcast
+  - opus精译
 ---
 
 # George Church：2050年前，人类有望逼近攻克衰老 | Dwarkesh #92

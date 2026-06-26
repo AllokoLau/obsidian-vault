@@ -1,11 +1,23 @@
 ---
 type: knowledge
 入库日期: 2026-06-25
-置信度: 0.80
+置信度: 0.8
 主题: 我把 Claude Fable 5 拉来做4个离谱实测：截图直接变代码、一把过俄罗斯方块
 分类: 信息挖掘/B站
-来源: [外部-Bilibili/BV1doEi6yEMv]
-tags: [opus精译, Claude Fable 5, 视觉模型实测, 截图转代码, Miro MCP, 俄罗斯方块, 前端生成, SVG时间线, AI编程, Anthropic, 企业应用重建]
+来源:
+  - 外部-Bilibili/BV1doEi6yEMv
+tags:
+  - opus精译
+  - ClaudeFable5
+  - 视觉模型实测
+  - 截图转代码
+  - MiroMCP
+  - 俄罗斯方块
+  - 前端生成
+  - SVG时间线
+  - AI编程
+  - Anthropic
+  - 企业应用重建
 ---
 
 # 我把 Claude Fable 5 拉来做4个离谱实测：截图直接变代码、一把过俄罗斯方块

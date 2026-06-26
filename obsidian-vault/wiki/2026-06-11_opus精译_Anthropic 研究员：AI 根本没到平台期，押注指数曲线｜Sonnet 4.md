@@ -1,11 +1,25 @@
 ---
 type: knowledge
 入库日期: 2026-06-25
-置信度: 0.80
+置信度: 0.8
 主题: Anthropic 研究员：AI 根本没到平台期，押注指数曲线｜Sonnet 4.5 发布访谈
 分类: 信息挖掘/B站
-来源: [外部-Bilibili/BV1odEi6LENm]
-tags: [Sholto Douglas, Anthropic, Sonnet 4.5, 强化学习, 预训练, 智能体, 编码模型, 测试时计算, 指数曲线, AGI, 苦涩教训, 机器人]
+来源:
+  - 外部-Bilibili/BV1odEi6LENm
+tags:
+  - SholtoDouglas
+  - Anthropic
+  - Sonnet45
+  - 强化学习
+  - 预训练
+  - 智能体
+  - 编码模型
+  - 测试时计算
+  - 指数曲线
+  - AGI
+  - 苦涩教训
+  - 机器人
+  - opus精译
 ---
 
 # Anthropic 研究员：AI 根本没到平台期，押注指数曲线｜Sonnet 4.5 发布访谈

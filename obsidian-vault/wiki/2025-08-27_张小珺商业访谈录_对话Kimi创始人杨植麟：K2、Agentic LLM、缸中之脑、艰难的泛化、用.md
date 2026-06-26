@@ -1,11 +1,24 @@
 ---
 type: knowledge
 入库日期: 2026-06-25
-置信度: 0.80
+置信度: 0.8
 主题: 对话Kimi创始人杨植麟：K2、Agentic LLM、缸中之脑、艰难的泛化、用L4解决L3、长文本影响智商、"站在无限的开端"
 分类: 信息挖掘/B站
-来源: [外部-Bilibili/BV1hFe1zSEXp]
-tags: [张小珺商业访谈录, 杨植麟, Kimi, 月之暗面, Agentic LLM, 缸中之脑, Test-time Scaling, 强化学习, K2模型, Muon优化器, 泛化挑战, 长文本]
+来源:
+  - 外部-Bilibili/BV1hFe1zSEXp
+tags:
+  - 张小珺商业访谈录
+  - 杨植麟
+  - Kimi
+  - 月之暗面
+  - AgenticLLM
+  - 缸中之脑
+  - Test-timeScaling
+  - 强化学习
+  - K2模型
+  - Muon优化器
+  - 泛化挑战
+  - 长文本
 ---
 
 # 对话Kimi创始人杨植麟：K2、Agentic LLM、缸中之脑、艰难的泛化、用L4解决L3、长文本影响智商、"站在无限的开端"

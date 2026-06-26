@@ -1,11 +1,25 @@
 ---
 type: knowledge
 入库日期: 2026-06-25
-置信度: 0.80
+置信度: 0.8
 主题: Ananyo Bhattacharya 解码冯·诺依曼这个可怕天才
 分类: 信息挖掘/B站
-来源: [外部-Bilibili/BV1VZjg6wEtz]
-tags: [AnanyoBhattacharya, 冯·诺依曼, 计算机科学史, 数学史, 博弈论, 核战略, 曼哈顿计划, 自动机理论, 量子力学, 匈牙利科学家, 天才研究, Dwarkesh]
+来源:
+  - 外部-Bilibili/BV1VZjg6wEtz
+tags:
+  - AnanyoBhattacharya
+  - 冯·诺依曼
+  - 计算机科学史
+  - 数学史
+  - 博弈论
+  - 核战略
+  - 曼哈顿计划
+  - 自动机理论
+  - 量子力学
+  - 匈牙利科学家
+  - 天才研究
+  - Dwarkesh
+  - opus精译
 ---
 
 # Ananyo Bhattacharya 解码冯·诺依曼这个可怕天才

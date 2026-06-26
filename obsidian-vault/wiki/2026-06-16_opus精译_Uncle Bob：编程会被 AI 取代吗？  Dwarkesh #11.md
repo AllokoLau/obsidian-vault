@@ -1,13 +1,24 @@
 ---
 type: knowledge
 入库日期: 2026-06-25
-置信度: 0.80
-主题: Uncle Bob：编程会被 AI 取代吗？ | Dwarkesh #11
+置信度: 0.8
+主题: Uncle Bob：编程会被 AI 取代吗？ | Dwarkesh
 分类: 信息挖掘/B站
-来源: [外部-Bilibili/BV1yDjT6uEhu]
-tags: [Uncle Bob, Robert C. Martin, Dwarkesh Podcast, 编程vsAI, 程序员天赋, 编程教育, 软件工程伦理, 代码美学, 敏捷开发, 行业知识]
+来源:
+  - 外部-Bilibili/BV1yDjT6uEhu
+tags:
+  - UncleBob
+  - RobertCMartin
+  - 编程vsAI
+  - 程序员天赋
+  - 编程教育
+  - 软件工程伦理
+  - 代码美学
+  - 敏捷开发
+  - 行业知识
+  - Dwarkesh
 ---
-
+Dwarkesh
 # Uncle Bob：编程会被 AI 取代吗？ | Dwarkesh #11
 
 > Robert C. Martin（Uncle Bob），《代码整洁之道》作者、敏捷宣言共同签署者，与 Dwarkesh 深入探讨 AI 是否将取代程序员、编程天赋的本质、教育路径以及软件工程的伦理未来。

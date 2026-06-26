@@ -1,11 +1,25 @@
 ---
 type: knowledge
 入库日期: 2026-06-25
-置信度: 0.80
-主题: 城市为什么不会死？ | Edward Glaeser（哈佛） | Dwarkesh #37
+置信度: 0.8
+主题: 城市为什么不会死？ | Edward Glaeser（哈佛） | Dwarkesh
 分类: 信息挖掘/B站
-来源: [外部-Bilibili/BV1GyjF6cEVd]
-tags: [Edward Glaeser, 城市经济学, Dwarkesh Patel, 远程办公, 住房政策, 硅谷, 城市韧性, 土地价值税, 全民基本收入, 罗伯特·摩西, 气候变化, 城市规划]
+来源:
+  - 外部-Bilibili/BV1GyjF6cEVd
+tags:
+  - EdwardGlaeser
+  - 城市经济学
+  - 远程办公
+  - 住房政策
+  - 硅谷
+  - 城市韧性
+  - 土地价值税
+  - 全民基本收入
+  - 罗伯特·摩西
+  - 气候变化
+  - 城市规划
+  - opus精译
+  - Dwarkesh
 ---
 
 # 城市为什么不会死？ | Edward Glaeser（哈佛） | Dwarkesh #37

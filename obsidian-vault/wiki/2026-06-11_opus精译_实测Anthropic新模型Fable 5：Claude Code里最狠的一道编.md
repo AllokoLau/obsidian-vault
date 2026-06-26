@@ -1,11 +1,22 @@
 ---
 type: knowledge
 入库日期: 2026-06-25
-置信度: 0.80
+置信度: 0.8
 主题: 实测Anthropic新模型Fable 5：Claude Code里最狠的一道编程考验
 分类: 信息挖掘/B站
-来源: [外部-Bilibili/BV1ooEi6yEpU]
-tags: [opus精译, Fable 5, Anthropic, Mythos系列, Claude Code, 编码Agent, 光线追踪, RAMP框架, 自主编程, 模型评测]
+来源:
+  - 外部-Bilibili/BV1ooEi6yEpU
+tags:
+  - opus精译
+  - Fable5
+  - Anthropic
+  - Mythos系列
+  - ClaudeCode
+  - 编码Agent
+  - 光线追踪
+  - RAMP框架
+  - 自主编程
+  - 模型评测
 ---
 
 # 实测Anthropic新模型Fable 5：Claude Code里最狠的一道编程考验
