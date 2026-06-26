@@ -70,7 +70,8 @@
               "title": "文件列表"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -195,6 +196,8 @@
   },
   "active": "772ed78d9be95ff3",
   "lastOpenFiles": [
+    "AGENTS.md",
+    "未命名.base",
     "obsidian-vault/wiki/2025-02-24_张小珺商业访谈录_逐篇讲解DeepSeek、Kimi、MiniMax注意力机制新论文——“硬件上的.md",
     "obsidian-vault/wiki/2026-06-14_opus精译_压缩就是智能？从信息论看懂大模型  3Blue1Brown  Opus精译.md",
     "obsidian-vault/wiki/2026-05-12_海外独角兽_Supabase：百亿美元估值，vibe coding 的默认后端？.md",
@@ -220,7 +223,6 @@
     "obsidian-vault/wiki/2026-03-30_张小珺商业访谈录_数据的综述_和谢晨聊.md",
     "obsidian-vault/wiki/2026-04-20_张小珺商业访谈录_对洪乐潼的4小时访谈：AI for Math、把数学变成Lean、数学天书中的证.md",
     "obsidian-vault/Agent协作Wiki/10 运行时层/项目空间/PRJ-2026-001 信息挖掘工具/inbox/Dwarkesh_RobinHanson_隐藏动机.md",
-    "obsidian-vault/Agent协作Wiki/10 运行时层/项目空间/PRJ-2026-001 信息挖掘工具/inbox/Dwarkesh_MichaelNielsen_科学进步.md",
     "obsidian-vault/wiki/2026-06-25_海外独角兽_硅谷火了一年的AI Roll-Up买公司成新创业模式.md.tmp.19272.bd4702c52992",
     "obsidian-vault/wiki/2026-06-25_海外独角兽_Reducto能成为独立的LLM数据入口吗.md.tmp.19272.73babf315c7f",
     "obsidian-vault/wiki/2026-06-25_晚点LatePost_给汽车装上大脑：火山引擎的时机、策略和卡位.md.tmp.19272.0be0428d2df8",
@@ -230,7 +232,6 @@
     "obsidian-vault/wiki/2026-06-25_海外独角兽_OpenClaw 引爆 AI 安全焦虑，Armadin 的 Agent 攻防闭环会成为新范式.md.tmp.19272.471df65c0a43",
     "obsidian-vault/wiki/2026-06-25_晚点LatePost_低价与信任之间，京东的另一种尝试.md.tmp.19272.5c51b109e3ab",
     "obsidian-vault/wiki/2026-06-25_海外独角兽_为什么「高价值任务」成了所有 AI Labs 的T0 级战略.md.tmp.19272.841c26424e68",
-    "obsidian-vault/wiki/2026-06-25_晚点LatePost_对话曦智科技沈亦晨：一个 MIT 博士与光计算穿越死亡谷的十年.md.tmp.19272.2d008126878d",
     "obsidian-vault/assets/bilibili_qr_login.png"
   ]
 }
