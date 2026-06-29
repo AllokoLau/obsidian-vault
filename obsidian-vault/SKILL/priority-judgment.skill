@@ -1,0 +1,29 @@
+---
+name: priority-judgment
+description: Evaluate and rank project tasks by priority. Use when the Coordinator needs to decide execution order, allocate resources, or resolve conflicts between competing tasks. Triggers when multiple tasks compete for attention or when project goals need sequencing.
+---
+
+# Priority Judgment
+
+Evaluate tasks against project goals and constraints to determine execution order.
+
+## Process
+
+1. **Gather inputs** - Collect task list, deadlines, dependencies, and resource availability
+2. **Apply criteria** - Score each task on: urgency, impact, dependency risk, effort required
+3. **Rank and decide** - Order tasks by composite score; resolve ties by strategic alignment
+4. **Output decision** - Produce prioritized task list with rationale
+
+## Criteria Weights
+
+- Urgency (time-sensitive deadlines): high
+- Impact (contribution to core goals): high
+- Dependency risk (blocking other tasks): medium
+- Effort (cost to implement): low
+
+## Output Format
+
+```
+1. [Task A] - Priority: P0 | Rationale: ...
+2. [Task B] - Priority: P1 | Rationale: ...
+```

@@ -1,0 +1,40 @@
+---
+name: task-decomposition
+description: Decompose complex tasks into actionable sub-tasks. Use when the Coordinator receives a large or ambiguous request that needs to be broken down before assignment. Triggers when a task is too broad, has multiple components, or requires coordination across multiple agents.
+---
+
+# Task Decomposition
+
+Break complex requests into clear, assignable sub-tasks.
+
+## Process
+
+1. **Understand the goal** - Identify the end state the user wants
+2. **Identify components** - Split into logical, independent work units
+3. **Define dependencies** - Note which sub-tasks block others
+4. **Assign ownership** - Map each sub-task to the right agent role
+5. **Set acceptance criteria** - Define done for each sub-task
+
+## Decomposition Rules
+
+- Each sub-task should be completable by one agent
+- Avoid sub-tasks smaller than a single thought unit
+- Max 7 sub-tasks per decomposition; nest if larger
+- Always identify the critical path
+
+## Output Format
+
+```markdown
+## Task: [title]
+
+### Sub-tasks
+1. **[Title]** | Owner: [Role] | Status: pending
+   - Description: [1-2 sentences]
+   - Acceptance: [done criteria]
+   - Dependencies: [none / #X]
+
+2. ...
+
+### Dependency Graph
+[sub-task number] → [sub-task number]
+```

@@ -1,0 +1,40 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:space.bilibili.com)",
+      "WebFetch(domain:bilibili.com)",
+      "WebFetch(domain:weixin.qq.com)",
+      "WebFetch(domain:podscripts.co)",
+      "WebFetch(domain:www.dwarkesh.com)",
+      "WebFetch(domain:podcastaddict.com)",
+      "WebFetch(domain:podcasts.apple.com)",
+      "WebFetch(domain:rsshub.app)",
+      "Read(//c/Users/93657/.claude/projects/d--Alloko/memory/**)",
+      "Read(//tmp/**)",
+      "Read(//usr/**)",
+      "Read(//c/Users/93657/AppData/Local/Programs/Python//**)",
+      "Read(//c/Users/93657/AppData/Local/Microsoft/WindowsApps//**)",
+      "Bash(curl -s \"https://api.bilibili.com/*\")",
+      "Bash(curl -s \"https://bibigpt.co/*\")",
+      "Bash(curl -s -b \"SESSDATA=*\" \"https://api.bilibili.com/x/player/v2*\" 2>/dev/null > /tmp/sub_resp.json && wc -c /tmp/sub_resp.json && head -c 2000 /tmp/sub_resp.json)",
+      "Bash(/c/Users/93657/AppData/Local/Microsoft/WindowsApps/python3.13.exe -c ' *)",
+      "Bash(python3 -c ' *)",
+      "Bash(python -c ' *)",
+      "Bash(\"/c/Users/93657/AppData/Local/Microsoft/WindowsApps/python.exe\" -X utf8 -m yt_dlp \"*\")",
+      "Bash(/d/apps/ANACONDA3/python.exe -c \"*)",
+      "Bash(echo \"=== Memory Files ===\" && ls -la \"C:/Users/93657/.claude/projects/d--Alloko/memory/\" && echo \"\" && echo \"=== CLAUDE.md \\(head 30\\) ===\" && head -30 \"d:/Alloko/CLAUDE.md\" && echo \"\" && echo \"=== CLAUDE.md exists at root ===\" && test -f \"d:/Alloko/CLAUDE.md\" && echo \"YES\" || echo \"NO\")",
+      "Bash(xargs -I {} sh -c 'date -d @{} \"+%Y-%m-%d %H:%M:%S\" 2>/dev/null || echo \"{}\"')",
+      "Bash(cp \"d:/Alloko/obsidian-vault/process/*\" \"d:/tmp/*\")",
+      "Bash(cp \"/d/Alloko/obsidian-vault/raw/*\" /d/tmp/*)",
+      "Bash(mv \"*厚雪长波*\" \"*\")",
+      "Bash(mv \"*海外独角兽*\" \"*)",
+      "Bash(find /c -name \"python.exe\" -maxdepth 5)",
+      "Bash(cmd.exe /c \"where python\")"
+    ],
+    "additionalDirectories": [
+      "\\tmp",
+      "d:\\Alloko\\obsidian-vault\\process\\晚点LatePost"
+    ]
+  }
+}

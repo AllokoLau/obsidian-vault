@@ -1,0 +1,91 @@
+/** 全局样式 */
+
+/* 页面基础 */
+page {
+  background-color: #f5f5f7;
+  font-size: 14px;
+  color: #333;
+  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;
+}
+
+/* 容器 */
+.container {
+  padding: 0 16px;
+}
+
+/* 卡片 */
+.card {
+  background: #fff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+}
+
+/* 按钮 - 主要 */
+.btn-primary {
+  background: #07c160;
+  color: #fff;
+  border: none;
+  border-radius: 20px;
+  padding: 10px 24px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.btn-primary:active {
+  opacity: 0.8;
+}
+
+/* 按钮 - 次要 */
+.btn-secondary {
+  background: #fff;
+  color: #333;
+  border: 1px solid #ddd;
+  border-radius: 14px;
+  padding: 4px 14px;
+  font-size: 12px;
+}
+
+/* 空状态 */
+.empty-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 100px 0 60px;
+  color: #ccc;
+}
+
+.empty-state text:first-child {
+  font-size: 64px;
+  margin-bottom: 12px;
+}
+
+.empty-state text:last-child {
+  font-size: 14px;
+  color: #ddd;
+}
+
+/* 价格文字 */
+.price {
+  color: #ff4d4f;
+  font-weight: 700;
+}
+
+/* 分割线 */
+.divider {
+  height: 1px;
+  background: #f0f0f0;
+  margin: 0 16px;
+}
+
+/* 徽标 */
+.badge {
+  display: inline-block;
+  background: #ff4d4f;
+  color: #fff;
+  font-size: 10px;
+  padding: 1px 6px;
+  border-radius: 10px;
+  min-width: 16px;
+  text-align: center;
+}

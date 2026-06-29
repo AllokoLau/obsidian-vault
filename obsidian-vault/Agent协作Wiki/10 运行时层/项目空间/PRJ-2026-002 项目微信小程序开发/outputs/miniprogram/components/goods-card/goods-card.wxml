@@ -1,0 +1,13 @@
+<view class="goods-card">
+  <view class="goods-img">
+    <image wx:if="{{image}}" src="{{image}}" mode="aspectFill" />
+    <text wx:else class="img-placeholder">📷</text>
+  </view>
+  <view class="goods-info">
+    <text class="goods-name">{{name}}</text>
+    <view class="goods-tags">
+      <text wx:if="{{tag}}" class="tag {{tagType === 'new' ? 'new-tag' : 'hot-tag'}}">{{tag}}</text>
+    </view>
+    <text class="goods-price">¥{{price}}</text>
+  </view>
+</view>
