@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9fed4360b488493b",
+        "id": "ced7aeaed436fabf",
         "type": "tabs",
         "children": [
           {
-            "id": "4e5dab16eb6254ff",
+            "id": "b9032f0ad79f9d83",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#微信公众号",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,6 +180,6 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4e5dab16eb6254ff",
+  "active": "b9032f0ad79f9d83",
   "lastOpenFiles": []
 }
