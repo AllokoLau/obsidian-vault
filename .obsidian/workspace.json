@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "269aa57b5d8c7dd2",
+    "id": "8da02fe0c9667dc1",
     "type": "split",
     "children": [
       {
-        "id": "0cf01d22cbfa52e8",
+        "id": "9fed4360b488493b",
         "type": "tabs",
         "children": [
           {
-            "id": "772ed78d9be95ff3",
+            "id": "4e5dab16eb6254ff",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -23,42 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bd3e2533f26e08df",
+    "id": "d4e88682962d69e1",
     "type": "split",
     "children": [
       {
-        "id": "a75cfaa36ca817d7",
+        "id": "8dc8be793c3df9d8",
         "type": "tabs",
         "children": [
           {
-            "id": "0ad20a2a89e6a3dc",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabeticalReverse"
-              },
-              "icon": "lucide-search",
-              "title": "搜索"
-            }
-          },
-          {
-            "id": "342e3d794c82b5c9",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "书签"
-            }
-          },
-          {
-            "id": "5de5acabc589735d",
+            "id": "1aaba688f4065947",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -69,29 +42,54 @@
               "icon": "lucide-folder-closed",
               "title": "文件列表"
             }
+          },
+          {
+            "id": "d2b09dc507608051",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a63b92962442277c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "173d5ca4c9cd7555",
+    "id": "676186d7440654fb",
     "type": "split",
     "children": [
       {
-        "id": "6bbc6adc77c9c6ce",
+        "id": "267c800995928c6f",
         "type": "tabs",
         "children": [
           {
-            "id": "9186adc833549178",
+            "id": "b576cc2858f536c0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "a44baca86cb34580",
+            "id": "4f3e3d0fb2c7acba",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "未命名 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "83f4d86a8b115dc1",
+            "id": "03b92b11efba3095",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,7 +131,7 @@
             }
           },
           {
-            "id": "8d13fe66e6fa78c9",
+            "id": "ccbb70fa1191980e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -148,32 +145,20 @@
             }
           },
           {
-            "id": "f50ceb034afe0f20",
+            "id": "04dddf1a4aa67f32",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
-            }
-          },
-          {
-            "id": "8ccdd7f8c0b607df",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "大纲"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,7 +167,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -191,47 +175,10 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian42-brat:BRAT": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "772ed78d9be95ff3",
-  "lastOpenFiles": [
-    "AGENTS.md",
-    "未命名.base",
-    "obsidian-vault/wiki/2025-02-24_张小珺商业访谈录_逐篇讲解DeepSeek、Kimi、MiniMax注意力机制新论文——“硬件上的.md",
-    "obsidian-vault/wiki/2026-06-14_opus精译_压缩就是智能？从信息论看懂大模型  3Blue1Brown  Opus精译.md",
-    "obsidian-vault/wiki/2026-05-12_海外独角兽_Supabase：百亿美元估值，vibe coding 的默认后端？.md",
-    "obsidian-vault/wiki/2026-06-12_张小珺商业访谈录_口述SpaceX开发史.md",
-    "obsidian-vault/wiki/2026-06-08_张小珺商业访谈录_对阳萌的4小时访谈.md",
-    "obsidian-vault/wiki/2026-05-28_张小珺商业访谈录_对何小鹏的第二次访谈.md",
-    "obsidian-vault/wiki/2026-04-24_张小珺商业访谈录_对罗福莉的3.5小时访谈：AI范式已然巨变！OpenClaw、智能体框架、Age.md",
-    "obsidian-vault/wiki/2026-03-16_张小珺商业访谈录_对谢赛宁的7小时马拉松访谈.md",
-    "obsidian-vault/wiki/2026-02-13_张小珺商业访谈录_对星海图高继扬的3小时访谈：鲶鱼、曾国藩、机器人、Waymo与Momenta的两.md",
-    "obsidian-vault/wiki/2025-12-30_张小珺商业访谈录_Manus决定出售前最后的访谈：啊，这奇幻的2025年漂流啊….md",
-    "obsidian-vault/wiki/2025-12-09_张小珺商业访谈录_对投资人朱啸虎的第三次访谈：现实主义、AI的盛筵与泡泡、和共识错开15度、《王者.md",
-    "obsidian-vault/wiki/2025-10-30_张小珺商业访谈录_对李想的第二次3小时访谈：CEO大模型、MoE、梁文锋、VLA、能量、记忆、对抗.md",
-    "obsidian-vault/wiki/2025-08-27_张小珺商业访谈录_对话Kimi创始人杨植麟：K2、Agentic LLM、缸中之脑、艰难的泛化、用.md",
-    "obsidian-vault/wiki/2025-07-31_张小珺商业访谈录_逐段讲解Kimi K2报告并对照ChatGPT Agent、Qwen3-Code.md",
-    "obsidian-vault/wiki/2025-07-19_张小珺商业访谈录_Lovart创始人陈冕复盘应用创业这两年：这一刻就是好爽啊！！哈哈哈哈哈.md",
-    "obsidian-vault/wiki/2025-07-02_张小珺商业访谈录_机器人泡沫了吗？和10亿美金创始人聊：资本轰炸下的具身智能真相.md",
-    "obsidian-vault/wiki/2025-06-18_张小珺商业访谈录_人类驯服可控核聚变还有多少路程？对能量奇点创始人杨钊3小时访谈.md",
-    "obsidian-vault/wiki/2025-04-26_张小珺商业访谈录_【独家对话奔驰全球CEO康林松】转型之中的139岁巨人.md",
-    "obsidian-vault/wiki/2025-04-07_张小珺商业访谈录_逐篇解析机器人基座模型和VLA经典论文——“人就是最智能的VLA”.md",
-    "obsidian-vault/wiki/2025-03-23_张小珺商业访谈录_Manus全球爆火，我们独家对话Manus创始人肖弘！.md",
-    "obsidian-vault/wiki/2024-12-29_张小珺商业访谈录_【李想2024唯一深度对谈（纯享版）】张小珺对话李想.md",
-    "obsidian-vault/wiki/2026-05-11_张小珺商业访谈录_对姚顺宇的4小时访谈.md",
-    "obsidian-vault/wiki/2026-03-30_张小珺商业访谈录_数据的综述_和谢晨聊.md",
-    "obsidian-vault/wiki/2026-04-20_张小珺商业访谈录_对洪乐潼的4小时访谈：AI for Math、把数学变成Lean、数学天书中的证.md",
-    "obsidian-vault/Agent协作Wiki/10 运行时层/项目空间/PRJ-2026-001 信息挖掘工具/inbox/Dwarkesh_RobinHanson_隐藏动机.md",
-    "obsidian-vault/wiki/2026-06-25_海外独角兽_硅谷火了一年的AI Roll-Up买公司成新创业模式.md.tmp.19272.bd4702c52992",
-    "obsidian-vault/wiki/2026-06-25_海外独角兽_Reducto能成为独立的LLM数据入口吗.md.tmp.19272.73babf315c7f",
-    "obsidian-vault/wiki/2026-06-25_晚点LatePost_给汽车装上大脑：火山引擎的时机、策略和卡位.md.tmp.19272.0be0428d2df8",
-    "obsidian-vault/wiki/2026-06-25_晚点LatePost_一代人有一代人的VC.md.tmp.19272.09f8e7b0b1fc",
-    "obsidian-vault/wiki/2026-06-25_海外独角兽_国产模型春节大考：来自 MiniMax、GLM、Seedance 开发者的一线复盘.md.tmp.19272.5cb420a47407",
-    "obsidian-vault/wiki/2026-06-25_晚点LatePost_对话原力灵机唐文斌当中国最早的AI创业者做具身.md.tmp.19272.5cc05fdaf5a4",
-    "obsidian-vault/wiki/2026-06-25_海外独角兽_OpenClaw 引爆 AI 安全焦虑，Armadin 的 Agent 攻防闭环会成为新范式.md.tmp.19272.471df65c0a43",
-    "obsidian-vault/wiki/2026-06-25_晚点LatePost_低价与信任之间，京东的另一种尝试.md.tmp.19272.5c51b109e3ab",
-    "obsidian-vault/wiki/2026-06-25_海外独角兽_为什么「高价值任务」成了所有 AI Labs 的T0 级战略.md.tmp.19272.841c26424e68",
-    "obsidian-vault/assets/bilibili_qr_login.png"
-  ]
+  "active": "4e5dab16eb6254ff",
+  "lastOpenFiles": []
 }
